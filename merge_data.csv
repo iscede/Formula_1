@@ -1,0 +1,1615 @@
+raceId,driverId,constructorId,grid,position,forename,surname,name,constructorName
+18,1,1,1,1,Lewis,Hamilton,Autódromo José Carlos Pace,McLaren
+18,5,1,3,5,Heikki,Kovalainen,Autódromo José Carlos Pace,McLaren
+19,1,1,9,5,Lewis,Hamilton,Indianapolis Motor Speedway,McLaren
+19,5,1,8,3,Heikki,Kovalainen,Indianapolis Motor Speedway,McLaren
+20,1,1,3,13,Lewis,Hamilton,Nürburgring,McLaren
+20,5,1,5,5,Heikki,Kovalainen,Nürburgring,McLaren
+21,1,1,5,3,Lewis,Hamilton,Autodromo Enzo e Dino Ferrari,McLaren
+21,5,1,6,\N,Heikki,Kovalainen,Autodromo Enzo e Dino Ferrari,McLaren
+22,1,1,3,2,Lewis,Hamilton,Suzuka Circuit,McLaren
+22,5,1,2,12,Heikki,Kovalainen,Suzuka Circuit,McLaren
+24,1,1,1,\N,Lewis,Hamilton,Yas Marina Circuit,McLaren
+24,5,1,7,9,Heikki,Kovalainen,Yas Marina Circuit,McLaren
+25,1,1,13,10,Lewis,Hamilton,Autódromo Juan y Oscar Gálvez,McLaren
+25,5,1,10,4,Heikki,Kovalainen,Autódromo Juan y Oscar Gálvez,McLaren
+26,1,1,4,1,Lewis,Hamilton,Circuito de Jerez,McLaren
+26,5,1,1,5,Heikki,Kovalainen,Circuito de Jerez,McLaren
+27,1,1,1,1,Lewis,Hamilton,Autódromo do Estoril,McLaren
+27,5,1,3,5,Heikki,Kovalainen,Autódromo do Estoril,McLaren
+28,1,1,1,5,Lewis,Hamilton,Okayama International Circuit,McLaren
+28,5,1,2,1,Heikki,Kovalainen,Okayama International Circuit,McLaren
+29,1,1,2,2,Lewis,Hamilton,Adelaide Street Circuit,McLaren
+29,5,1,5,4,Heikki,Kovalainen,Adelaide Street Circuit,McLaren
+30,1,1,1,3,Lewis,Hamilton,Kyalami,McLaren
+30,5,1,3,10,Heikki,Kovalainen,Kyalami,McLaren
+31,1,1,15,7,Lewis,Hamilton,Donington Park,McLaren
+31,5,1,2,2,Heikki,Kovalainen,Donington Park,McLaren
+32,1,1,2,3,Lewis,Hamilton,Autódromo Hermanos Rodríguez,McLaren
+32,5,1,5,10,Heikki,Kovalainen,Autódromo Hermanos Rodríguez,McLaren
+33,1,1,1,12,Lewis,Hamilton,Phoenix street circuit,McLaren
+33,5,1,3,\N,Heikki,Kovalainen,Phoenix street circuit,McLaren
+34,1,1,1,1,Lewis,Hamilton,Circuit Paul Ricard,McLaren
+34,5,1,5,\N,Heikki,Kovalainen,Circuit Paul Ricard,McLaren
+35,1,1,4,5,Lewis,Hamilton,Korean International Circuit,McLaren
+35,5,1,5,7,Heikki,Kovalainen,Korean International Circuit,McLaren
+36,1,1,4,3,Lewis,Hamilton,Autódromo Internacional Nelson Piquet,McLaren
+36,4,1,2,2,Fernando,Alonso,Autódromo Internacional Nelson Piquet,McLaren
+37,1,1,4,2,Lewis,Hamilton,Detroit Street Circuit,McLaren
+37,4,1,2,1,Fernando,Alonso,Detroit Street Circuit,McLaren
+38,1,1,2,2,Lewis,Hamilton,Brands Hatch,McLaren
+38,4,1,4,5,Fernando,Alonso,Brands Hatch,McLaren
+39,1,1,4,2,Lewis,Hamilton,Circuit Park Zandvoort,McLaren
+39,4,1,2,3,Fernando,Alonso,Circuit Park Zandvoort,McLaren
+40,1,1,2,2,Lewis,Hamilton,Zolder,McLaren
+40,4,1,1,1,Fernando,Alonso,Zolder,McLaren
+41,1,1,1,1,Lewis,Hamilton,Dijon-Prenois,McLaren
+41,4,1,2,7,Fernando,Alonso,Dijon-Prenois,McLaren
+42,1,1,1,1,Lewis,Hamilton,Fair Park,McLaren
+42,4,1,2,2,Fernando,Alonso,Fair Park,McLaren
+43,1,1,2,3,Lewis,Hamilton,Long Beach,McLaren
+43,4,1,10,7,Fernando,Alonso,Long Beach,McLaren
+44,1,1,1,3,Lewis,Hamilton,Las Vegas Street Circuit,McLaren
+44,4,1,3,2,Fernando,Alonso,Las Vegas Street Circuit,McLaren
+45,1,1,10,9,Lewis,Hamilton,Jarama,McLaren
+45,4,1,2,1,Fernando,Alonso,Jarama,McLaren
+46,1,1,1,1,Lewis,Hamilton,Watkins Glen,McLaren
+46,4,1,6,4,Fernando,Alonso,Watkins Glen,McLaren
+47,1,1,2,5,Lewis,Hamilton,Scandinavian Raceway,McLaren
+47,4,1,4,3,Fernando,Alonso,Scandinavian Raceway,McLaren
+48,1,1,2,2,Lewis,Hamilton,Mosport International Raceway,McLaren
+48,4,1,1,1,Fernando,Alonso,Mosport International Raceway,McLaren
+49,1,1,4,4,Lewis,Hamilton,Montjuïc,McLaren
+49,4,1,3,3,Fernando,Alonso,Montjuïc,McLaren
+50,1,1,1,1,Lewis,Hamilton,Nivelles-Baulers,McLaren
+50,4,1,2,\N,Fernando,Alonso,Nivelles-Baulers,McLaren
+51,1,1,1,\N,Lewis,Hamilton,Charade Circuit,McLaren
+51,4,1,4,2,Fernando,Alonso,Charade Circuit,McLaren
+52,1,1,2,7,Lewis,Hamilton,Circuit Mont-Tremblant,McLaren
+52,4,1,4,3,Fernando,Alonso,Circuit Mont-Tremblant,McLaren
+1,1,1,18,\N,Lewis,Hamilton,Albert Park Grand Prix Circuit,McLaren
+1,5,1,12,\N,Heikki,Kovalainen,Albert Park Grand Prix Circuit,McLaren
+2,1,1,12,7,Lewis,Hamilton,Sepang International Circuit,McLaren
+2,5,1,14,\N,Heikki,Kovalainen,Sepang International Circuit,McLaren
+3,1,1,9,6,Lewis,Hamilton,Bahrain International Circuit,McLaren
+3,5,1,12,5,Heikki,Kovalainen,Bahrain International Circuit,McLaren
+4,1,1,5,4,Lewis,Hamilton,Circuit de Barcelona-Catalunya,McLaren
+4,5,1,11,12,Heikki,Kovalainen,Circuit de Barcelona-Catalunya,McLaren
+5,1,1,14,9,Lewis,Hamilton,Istanbul Park,McLaren
+5,5,1,18,\N,Heikki,Kovalainen,Istanbul Park,McLaren
+6,1,1,19,12,Lewis,Hamilton,Circuit de Monaco,McLaren
+6,5,1,7,\N,Heikki,Kovalainen,Circuit de Monaco,McLaren
+7,1,1,16,13,Lewis,Hamilton,Circuit Gilles Villeneuve,McLaren
+7,5,1,14,14,Heikki,Kovalainen,Circuit Gilles Villeneuve,McLaren
+8,1,1,18,16,Lewis,Hamilton,Circuit de Nevers Magny-Cours,McLaren
+8,5,1,13,\N,Heikki,Kovalainen,Circuit de Nevers Magny-Cours,McLaren
+9,1,1,5,18,Lewis,Hamilton,Silverstone Circuit,McLaren
+9,5,1,6,8,Heikki,Kovalainen,Silverstone Circuit,McLaren
+10,1,1,4,1,Lewis,Hamilton,Hockenheimring,McLaren
+10,5,1,6,5,Heikki,Kovalainen,Hockenheimring,McLaren
+11,1,1,1,2,Lewis,Hamilton,Hungaroring,McLaren
+11,5,1,2,4,Heikki,Kovalainen,Hungaroring,McLaren
+12,1,1,12,\N,Lewis,Hamilton,Valencia Street Circuit,McLaren
+12,5,1,15,6,Heikki,Kovalainen,Valencia Street Circuit,McLaren
+13,1,1,1,12,Lewis,Hamilton,Circuit de Spa-Francorchamps,McLaren
+13,5,1,4,6,Heikki,Kovalainen,Circuit de Spa-Francorchamps,McLaren
+14,1,1,1,1,Lewis,Hamilton,Autodromo Nazionale di Monza,McLaren
+14,5,1,8,7,Heikki,Kovalainen,Autodromo Nazionale di Monza,McLaren
+15,1,1,3,3,Lewis,Hamilton,Marina Bay Street Circuit,McLaren
+15,5,1,11,11,Heikki,Kovalainen,Marina Bay Street Circuit,McLaren
+16,1,1,17,3,Lewis,Hamilton,Fuji Speedway,McLaren
+16,5,1,16,9,Heikki,Kovalainen,Fuji Speedway,McLaren
+17,1,1,1,\N,Lewis,Hamilton,Shanghai International Circuit,McLaren
+17,5,1,18,11,Heikki,Kovalainen,Shanghai International Circuit,McLaren
+53,8,1,22,3,Kimi,Räikkönen,Rouen-Les-Essarts,McLaren
+53,31,1,5,5,Juan,Pablo Montoya,Rouen-Les-Essarts,McLaren
+54,8,1,6,\N,Kimi,Räikkönen,Le Mans,McLaren
+54,31,1,5,4,Juan,Pablo Montoya,Le Mans,McLaren
+55,8,1,4,2,Kimi,Räikkönen,Reims-Gueux,McLaren
+55,31,1,5,\N,Juan,Pablo Montoya,Reims-Gueux,McLaren
+56,8,1,8,5,Kimi,Räikkönen,Prince George Circuit,McLaren
+56,31,1,7,3,Juan,Pablo Montoya,Prince George Circuit,McLaren
+57,8,1,5,4,Kimi,Räikkönen,Zeltweg,McLaren
+57,31,1,8,\N,Juan,Pablo Montoya,Zeltweg,McLaren
+58,8,1,9,5,Kimi,Räikkönen,Aintree,McLaren
+58,31,1,12,\N,Juan,Pablo Montoya,Aintree,McLaren
+59,8,1,3,\N,Kimi,Räikkönen,Circuito da Boavista,McLaren
+59,31,1,4,2,Juan,Pablo Montoya,Circuito da Boavista,McLaren
+60,8,1,2,3,Kimi,Räikkönen,Riverside International Raceway,McLaren
+60,31,1,8,6,Juan,Pablo Montoya,Riverside International Raceway,McLaren
+61,8,1,3,3,Kimi,Räikkönen,AVUS,McLaren
+61,31,1,7,\N,Juan,Pablo Montoya,AVUS,McLaren
+62,8,1,9,\N,Kimi,Räikkönen,Monsanto Park Circuit,McLaren
+62,31,1,11,\N,Juan,Pablo Montoya,Monsanto Park Circuit,McLaren
+63,8,1,6,5,Kimi,Räikkönen,Sebring International Raceway,McLaren
+63,37,1,8,7,Pedro,de la Rosa,Sebring International Raceway,McLaren
+64,8,1,1,3,Kimi,Räikkönen,Ain Diab,McLaren
+64,37,1,9,\N,Pedro,de la Rosa,Ain Diab,McLaren
+65,8,1,1,\N,Kimi,Räikkönen,Pescara Circuit,McLaren
+65,37,1,4,2,Pedro,de la Rosa,Pescara Circuit,McLaren
+66,8,1,7,\N,Kimi,Räikkönen,Circuit Bremgarten,McLaren
+66,37,1,11,5,Pedro,de la Rosa,Circuit Bremgarten,McLaren
+67,8,1,1,2,Kimi,Räikkönen,Circuit de Pedralbes,McLaren
+67,37,1,7,\N,Pedro,de la Rosa,Circuit de Pedralbes,McLaren
+68,8,1,5,\N,Kimi,Räikkönen,Buddh International Circuit,McLaren
+68,37,1,7,5,Pedro,de la Rosa,Buddh International Circuit,McLaren
+69,8,1,11,5,Kimi,Räikkönen,Circuit of the Americas,McLaren
+69,37,1,13,11,Pedro,de la Rosa,Circuit of the Americas,McLaren
+70,8,1,2,5,Kimi,Räikkönen,Red Bull Ring,McLaren
+70,37,1,12,8,Pedro,de la Rosa,Red Bull Ring,McLaren
+71,8,1,10,8,Kimi,Räikkönen,Sochi Autodrom,McLaren
+71,31,1,9,6,Juan,Pablo Montoya,Sochi Autodrom,McLaren
+73,8,1,9,3,Kimi,Räikkönen,Baku City Circuit,McLaren
+73,37,1,8,5,Pedro,de la Rosa,Baku City Circuit,McLaren
+75,8,1,1,1,Kimi,Räikkönen,Autódromo Internacional do Algarve,McLaren
+75,31,1,7,7,Juan,Pablo Montoya,Autódromo Internacional do Algarve,McLaren
+76,8,1,1,1,Kimi,Räikkönen,Autodromo Internazionale del Mugello,McLaren
+76,31,1,16,5,Juan,Pablo Montoya,Autodromo Internazionale del Mugello,McLaren
+77,8,1,2,11,Kimi,Räikkönen,Jeddah Corniche Circuit,McLaren
+77,31,1,5,7,Juan,Pablo Montoya,Jeddah Corniche Circuit,McLaren
+78,8,1,7,1,Kimi,Räikkönen,Losail International Circuit,McLaren
+78,31,1,5,\N,Juan,Pablo Montoya,Losail International Circuit,McLaren
+79,8,1,2,\N,Kimi,Räikkönen,Miami International Autodrome,McLaren
+79,31,1,11,\N,Juan,Pablo Montoya,Miami International Autodrome,McLaren
+80,8,1,13,2,Kimi,Räikkönen,Las Vegas Strip Street Circuit,McLaren
+80,31,1,8,\N,Juan,Pablo Montoya,Las Vegas Strip Street Circuit,McLaren
+18,2,2,5,2,Nick,Heidfeld,Autódromo José Carlos Pace,BMW Sauber
+18,9,2,2,\N,Robert,Kubica,Autódromo José Carlos Pace,BMW Sauber
+19,2,2,5,6,Nick,Heidfeld,Indianapolis Motor Speedway,BMW Sauber
+19,9,2,4,2,Robert,Kubica,Indianapolis Motor Speedway,BMW Sauber
+20,2,2,6,4,Nick,Heidfeld,Nürburgring,BMW Sauber
+20,9,2,1,3,Robert,Kubica,Nürburgring,BMW Sauber
+21,2,2,9,9,Nick,Heidfeld,Autodromo Enzo e Dino Ferrari,BMW Sauber
+21,9,2,4,4,Robert,Kubica,Autodromo Enzo e Dino Ferrari,BMW Sauber
+22,2,2,9,5,Nick,Heidfeld,Suzuka Circuit,BMW Sauber
+22,9,2,5,4,Robert,Kubica,Suzuka Circuit,BMW Sauber
+24,2,2,8,2,Nick,Heidfeld,Yas Marina Circuit,BMW Sauber
+24,9,2,2,1,Robert,Kubica,Yas Marina Circuit,BMW Sauber
+25,2,2,11,13,Nick,Heidfeld,Autódromo Juan y Oscar Gálvez,BMW Sauber
+25,9,2,5,5,Robert,Kubica,Autódromo Juan y Oscar Gálvez,BMW Sauber
+26,2,2,5,2,Nick,Heidfeld,Circuito de Jerez,BMW Sauber
+26,9,2,10,\N,Robert,Kubica,Circuito de Jerez,BMW Sauber
+27,2,2,12,4,Nick,Heidfeld,Autódromo do Estoril,BMW Sauber
+27,9,2,7,7,Robert,Kubica,Autódromo do Estoril,BMW Sauber
+28,2,2,15,10,Nick,Heidfeld,Okayama International Circuit,BMW Sauber
+28,9,2,4,8,Robert,Kubica,Okayama International Circuit,BMW Sauber
+29,2,2,8,9,Nick,Heidfeld,Adelaide Street Circuit,BMW Sauber
+29,9,2,3,3,Robert,Kubica,Adelaide Street Circuit,BMW Sauber
+30,2,2,5,2,Nick,Heidfeld,Kyalami,BMW Sauber
+30,9,2,8,6,Robert,Kubica,Kyalami,BMW Sauber
+31,2,2,10,5,Nick,Heidfeld,Donington Park,BMW Sauber
+31,9,2,11,3,Robert,Kubica,Donington Park,BMW Sauber
+32,2,2,9,6,Nick,Heidfeld,Autódromo Hermanos Rodríguez,BMW Sauber
+32,9,2,4,11,Robert,Kubica,Autódromo Hermanos Rodríguez,BMW Sauber
+33,2,2,16,9,Nick,Heidfeld,Phoenix street circuit,BMW Sauber
+33,9,2,6,2,Robert,Kubica,Phoenix street circuit,BMW Sauber
+34,2,2,9,5,Nick,Heidfeld,Circuit Paul Ricard,BMW Sauber
+34,9,2,11,6,Robert,Kubica,Circuit Paul Ricard,BMW Sauber
+35,2,2,8,10,Nick,Heidfeld,Korean International Circuit,BMW Sauber
+35,9,2,13,11,Robert,Kubica,Korean International Circuit,BMW Sauber
+36,2,2,3,4,Nick,Heidfeld,Autódromo Internacional Nelson Piquet,BMW Sauber
+36,9,2,5,\N,Robert,Kubica,Autódromo Internacional Nelson Piquet,BMW Sauber
+37,2,2,5,4,Nick,Heidfeld,Detroit Street Circuit,BMW Sauber
+37,9,2,7,18,Robert,Kubica,Detroit Street Circuit,BMW Sauber
+38,2,2,5,4,Nick,Heidfeld,Brands Hatch,BMW Sauber
+38,9,2,6,6,Robert,Kubica,Brands Hatch,BMW Sauber
+39,2,2,7,\N,Nick,Heidfeld,Circuit Park Zandvoort,BMW Sauber
+39,9,2,5,4,Robert,Kubica,Circuit Park Zandvoort,BMW Sauber
+40,2,2,7,6,Nick,Heidfeld,Zolder,BMW Sauber
+40,9,2,8,5,Robert,Kubica,Zolder,BMW Sauber
+41,2,2,3,2,Nick,Heidfeld,Dijon-Prenois,BMW Sauber
+41,9,2,8,\N,Robert,Kubica,Dijon-Prenois,BMW Sauber
+42,2,2,5,\N,Nick,Heidfeld,Fair Park,BMW Sauber
+42,20,2,7,8,Sebastian,Vettel,Fair Park,BMW Sauber
+43,2,2,7,5,Nick,Heidfeld,Long Beach,BMW Sauber
+43,9,2,4,4,Robert,Kubica,Long Beach,BMW Sauber
+44,2,2,9,6,Nick,Heidfeld,Las Vegas Street Circuit,BMW Sauber
+44,9,2,5,4,Robert,Kubica,Las Vegas Street Circuit,BMW Sauber
+45,2,2,4,6,Nick,Heidfeld,Jarama,BMW Sauber
+45,9,2,5,7,Robert,Kubica,Jarama,BMW Sauber
+46,2,2,2,3,Nick,Heidfeld,Watkins Glen,BMW Sauber
+46,9,2,7,5,Robert,Kubica,Watkins Glen,BMW Sauber
+47,2,2,6,4,Nick,Heidfeld,Scandinavian Raceway,BMW Sauber
+47,9,2,5,8,Robert,Kubica,Scandinavian Raceway,BMW Sauber
+48,2,2,4,4,Nick,Heidfeld,Mosport International Raceway,BMW Sauber
+48,9,2,6,5,Robert,Kubica,Mosport International Raceway,BMW Sauber
+49,2,2,6,5,Nick,Heidfeld,Montjuïc,BMW Sauber
+49,9,2,14,9,Robert,Kubica,Montjuïc,BMW Sauber
+50,2,2,5,14,Nick,Heidfeld,Nivelles-Baulers,BMW Sauber
+50,9,2,9,7,Robert,Kubica,Nivelles-Baulers,BMW Sauber
+51,2,2,8,7,Nick,Heidfeld,Charade Circuit,BMW Sauber
+51,9,2,9,\N,Robert,Kubica,Charade Circuit,BMW Sauber
+52,2,2,6,6,Nick,Heidfeld,Circuit Mont-Tremblant,BMW Sauber
+52,9,2,7,5,Robert,Kubica,Circuit Mont-Tremblant,BMW Sauber
+1,2,2,9,10,Nick,Heidfeld,Albert Park Grand Prix Circuit,BMW Sauber
+1,9,2,4,14,Robert,Kubica,Albert Park Grand Prix Circuit,BMW Sauber
+2,2,2,10,2,Nick,Heidfeld,Sepang International Circuit,BMW Sauber
+2,9,2,6,\N,Robert,Kubica,Sepang International Circuit,BMW Sauber
+3,2,2,11,12,Nick,Heidfeld,Bahrain International Circuit,BMW Sauber
+3,9,2,17,13,Robert,Kubica,Bahrain International Circuit,BMW Sauber
+4,2,2,14,19,Nick,Heidfeld,Circuit de Barcelona-Catalunya,BMW Sauber
+4,9,2,13,18,Robert,Kubica,Circuit de Barcelona-Catalunya,BMW Sauber
+5,2,2,13,7,Nick,Heidfeld,Istanbul Park,BMW Sauber
+5,9,2,10,11,Robert,Kubica,Istanbul Park,BMW Sauber
+6,2,2,16,11,Nick,Heidfeld,Circuit de Monaco,BMW Sauber
+6,9,2,17,\N,Robert,Kubica,Circuit de Monaco,BMW Sauber
+7,2,2,11,11,Nick,Heidfeld,Circuit Gilles Villeneuve,BMW Sauber
+7,9,2,10,7,Robert,Kubica,Circuit Gilles Villeneuve,BMW Sauber
+8,2,2,15,15,Nick,Heidfeld,Circuit de Nevers Magny-Cours,BMW Sauber
+8,9,2,12,13,Robert,Kubica,Circuit de Nevers Magny-Cours,BMW Sauber
+9,2,2,11,10,Nick,Heidfeld,Silverstone Circuit,BMW Sauber
+9,9,2,16,14,Robert,Kubica,Silverstone Circuit,BMW Sauber
+10,2,2,15,11,Nick,Heidfeld,Hockenheimring,BMW Sauber
+10,9,2,18,13,Robert,Kubica,Hockenheimring,BMW Sauber
+11,2,2,11,11,Nick,Heidfeld,Hungaroring,BMW Sauber
+11,9,2,10,8,Robert,Kubica,Hungaroring,BMW Sauber
+12,2,2,3,5,Nick,Heidfeld,Valencia Street Circuit,BMW Sauber
+12,9,2,5,4,Robert,Kubica,Valencia Street Circuit,BMW Sauber
+13,2,2,15,7,Nick,Heidfeld,Circuit de Spa-Francorchamps,BMW Sauber
+13,9,2,13,\N,Robert,Kubica,Circuit de Spa-Francorchamps,BMW Sauber
+14,2,2,20,\N,Nick,Heidfeld,Autodromo Nazionale di Monza,BMW Sauber
+14,9,2,7,8,Robert,Kubica,Autodromo Nazionale di Monza,BMW Sauber
+15,2,2,4,6,Nick,Heidfeld,Marina Bay Street Circuit,BMW Sauber
+15,9,2,9,9,Robert,Kubica,Marina Bay Street Circuit,BMW Sauber
+16,2,2,18,\N,Nick,Heidfeld,Fuji Speedway,BMW Sauber
+16,9,2,8,2,Robert,Kubica,Fuji Speedway,BMW Sauber
+17,2,2,8,5,Nick,Heidfeld,Shanghai International Circuit,BMW Sauber
+17,9,2,7,10,Robert,Kubica,Shanghai International Circuit,BMW Sauber
+53,2,2,10,12,Nick,Heidfeld,Rouen-Les-Essarts,BMW Sauber
+53,35,2,11,\N,Jacques,Villeneuve,Rouen-Les-Essarts,BMW Sauber
+54,2,2,11,\N,Nick,Heidfeld,Le Mans,BMW Sauber
+54,35,2,10,7,Jacques,Villeneuve,Le Mans,BMW Sauber
+55,2,2,8,4,Nick,Heidfeld,Reims-Gueux,BMW Sauber
+55,35,2,19,6,Jacques,Villeneuve,Reims-Gueux,BMW Sauber
+56,2,2,15,13,Nick,Heidfeld,Prince George Circuit,BMW Sauber
+56,35,2,12,12,Jacques,Villeneuve,Prince George Circuit,BMW Sauber
+57,2,2,13,10,Nick,Heidfeld,Zeltweg,BMW Sauber
+57,35,2,9,8,Jacques,Villeneuve,Zeltweg,BMW Sauber
+58,2,2,10,8,Nick,Heidfeld,Aintree,BMW Sauber
+58,35,2,22,12,Jacques,Villeneuve,Aintree,BMW Sauber
+59,2,2,15,7,Nick,Heidfeld,Circuito da Boavista,BMW Sauber
+59,35,2,14,14,Jacques,Villeneuve,Circuito da Boavista,BMW Sauber
+60,2,2,9,7,Nick,Heidfeld,Riverside International Raceway,BMW Sauber
+60,35,2,10,8,Jacques,Villeneuve,Riverside International Raceway,BMW Sauber
+61,2,2,13,7,Nick,Heidfeld,AVUS,BMW Sauber
+61,35,2,11,\N,Jacques,Villeneuve,AVUS,BMW Sauber
+62,2,2,10,\N,Nick,Heidfeld,Monsanto Park Circuit,BMW Sauber
+62,35,2,6,\N,Jacques,Villeneuve,Monsanto Park Circuit,BMW Sauber
+63,2,2,11,8,Nick,Heidfeld,Sebring International Raceway,BMW Sauber
+63,35,2,16,11,Jacques,Villeneuve,Sebring International Raceway,BMW Sauber
+64,2,2,15,\N,Nick,Heidfeld,Ain Diab,BMW Sauber
+64,35,2,13,\N,Jacques,Villeneuve,Ain Diab,BMW Sauber
+65,2,2,10,3,Nick,Heidfeld,Pescara Circuit,BMW Sauber
+65,9,2,9,\N,Robert,Kubica,Pescara Circuit,BMW Sauber
+66,2,2,5,14,Nick,Heidfeld,Circuit Bremgarten,BMW Sauber
+66,9,2,8,12,Robert,Kubica,Circuit Bremgarten,BMW Sauber
+67,2,2,3,8,Nick,Heidfeld,Circuit de Pedralbes,BMW Sauber
+67,9,2,6,3,Robert,Kubica,Circuit de Pedralbes,BMW Sauber
+68,2,2,8,7,Nick,Heidfeld,Buddh International Circuit,BMW Sauber
+68,9,2,9,13,Robert,Kubica,Buddh International Circuit,BMW Sauber
+69,2,2,9,8,Nick,Heidfeld,Circuit of the Americas,BMW Sauber
+69,9,2,12,9,Robert,Kubica,Circuit of the Americas,BMW Sauber
+70,2,2,8,17,Nick,Heidfeld,Red Bull Ring,BMW Sauber
+70,9,2,9,9,Robert,Kubica,Red Bull Ring,BMW Sauber
+18,3,3,7,3,Nico,Rosberg,Autódromo José Carlos Pace,Williams
+18,6,3,13,6,Kazuki,Nakajima,Autódromo José Carlos Pace,Williams
+19,3,3,16,14,Nico,Rosberg,Indianapolis Motor Speedway,Williams
+19,6,3,22,17,Kazuki,Nakajima,Indianapolis Motor Speedway,Williams
+20,3,3,8,8,Nico,Rosberg,Nürburgring,Williams
+20,6,3,16,14,Kazuki,Nakajima,Nürburgring,Williams
+21,3,3,15,\N,Nico,Rosberg,Autodromo Enzo e Dino Ferrari,Williams
+21,6,3,12,7,Kazuki,Nakajima,Autodromo Enzo e Dino Ferrari,Williams
+22,3,3,11,8,Nico,Rosberg,Suzuka Circuit,Williams
+22,6,3,16,\N,Kazuki,Nakajima,Suzuka Circuit,Williams
+24,3,3,5,10,Nico,Rosberg,Yas Marina Circuit,Williams
+24,6,3,12,\N,Kazuki,Nakajima,Yas Marina Circuit,Williams
+25,3,3,19,16,Nico,Rosberg,Autódromo Juan y Oscar Gálvez,Williams
+25,6,3,15,15,Kazuki,Nakajima,Autódromo Juan y Oscar Gálvez,Williams
+26,3,3,20,9,Nico,Rosberg,Circuito de Jerez,Williams
+26,6,3,15,8,Kazuki,Nakajima,Circuito de Jerez,Williams
+27,3,3,13,10,Nico,Rosberg,Autódromo do Estoril,Williams
+27,6,3,16,14,Kazuki,Nakajima,Autódromo do Estoril,Williams
+28,3,3,14,14,Nico,Rosberg,Okayama International Circuit,Williams
+28,6,3,16,13,Kazuki,Nakajima,Okayama International Circuit,Williams
+29,3,3,9,8,Nico,Rosberg,Adelaide Street Circuit,Williams
+29,6,3,11,15,Kazuki,Nakajima,Adelaide Street Circuit,Williams
+30,3,3,15,12,Nico,Rosberg,Kyalami,Williams
+30,6,3,19,14,Kazuki,Nakajima,Kyalami,Williams
+31,3,3,5,14,Nico,Rosberg,Donington Park,Williams
+31,6,3,18,12,Kazuki,Nakajima,Donington Park,Williams
+32,3,3,8,2,Nico,Rosberg,Autódromo Hermanos Rodríguez,Williams
+32,6,3,10,8,Kazuki,Nakajima,Autódromo Hermanos Rodríguez,Williams
+33,3,3,15,11,Nico,Rosberg,Phoenix street circuit,Williams
+33,6,3,14,15,Kazuki,Nakajima,Phoenix street circuit,Williams
+34,3,3,14,15,Nico,Rosberg,Circuit Paul Ricard,Williams
+34,6,3,17,12,Kazuki,Nakajima,Circuit Paul Ricard,Williams
+35,3,3,18,12,Nico,Rosberg,Korean International Circuit,Williams
+35,6,3,16,17,Kazuki,Nakajima,Korean International Circuit,Williams
+36,3,3,12,7,Nico,Rosberg,Autódromo Internacional Nelson Piquet,Williams
+36,25,3,15,\N,Alexander,Wurz,Autódromo Internacional Nelson Piquet,Williams
+37,3,3,6,\N,Nico,Rosberg,Detroit Street Circuit,Williams
+37,25,3,19,9,Alexander,Wurz,Detroit Street Circuit,Williams
+38,3,3,10,10,Nico,Rosberg,Brands Hatch,Williams
+38,25,3,11,11,Alexander,Wurz,Brands Hatch,Williams
+39,3,3,11,6,Nico,Rosberg,Circuit Park Zandvoort,Williams
+39,25,3,18,\N,Alexander,Wurz,Circuit Park Zandvoort,Williams
+40,3,3,5,12,Nico,Rosberg,Zolder,Williams
+40,25,3,11,7,Alexander,Wurz,Zolder,Williams
+41,3,3,7,10,Nico,Rosberg,Dijon-Prenois,Williams
+41,25,3,19,3,Alexander,Wurz,Dijon-Prenois,Williams
+42,3,3,14,16,Nico,Rosberg,Fair Park,Williams
+42,25,3,17,10,Alexander,Wurz,Fair Park,Williams
+43,3,3,9,9,Nico,Rosberg,Long Beach,Williams
+43,25,3,18,14,Alexander,Wurz,Long Beach,Williams
+44,3,3,17,12,Nico,Rosberg,Las Vegas Street Circuit,Williams
+44,25,3,13,13,Alexander,Wurz,Las Vegas Street Circuit,Williams
+45,3,3,11,\N,Nico,Rosberg,Jarama,Williams
+45,25,3,12,4,Alexander,Wurz,Jarama,Williams
+46,3,3,4,7,Nico,Rosberg,Watkins Glen,Williams
+46,25,3,12,14,Alexander,Wurz,Watkins Glen,Williams
+47,3,3,8,7,Nico,Rosberg,Scandinavian Raceway,Williams
+47,25,3,14,11,Alexander,Wurz,Scandinavian Raceway,Williams
+48,3,3,8,6,Nico,Rosberg,Mosport International Raceway,Williams
+48,25,3,13,13,Alexander,Wurz,Mosport International Raceway,Williams
+49,3,3,5,6,Nico,Rosberg,Montjuïc,Williams
+49,25,3,15,\N,Alexander,Wurz,Montjuïc,Williams
+50,3,3,16,\N,Nico,Rosberg,Nivelles-Baulers,Williams
+50,25,3,18,\N,Alexander,Wurz,Nivelles-Baulers,Williams
+51,3,3,15,16,Nico,Rosberg,Charade Circuit,Williams
+51,25,3,19,12,Alexander,Wurz,Charade Circuit,Williams
+52,3,3,10,4,Nico,Rosberg,Circuit Mont-Tremblant,Williams
+52,6,3,19,10,Kazuki,Nakajima,Circuit Mont-Tremblant,Williams
+1,3,3,5,6,Nico,Rosberg,Albert Park Grand Prix Circuit,Williams
+1,6,3,11,\N,Kazuki,Nakajima,Albert Park Grand Prix Circuit,Williams
+2,3,3,4,8,Nico,Rosberg,Sepang International Circuit,Williams
+2,6,3,11,12,Kazuki,Nakajima,Sepang International Circuit,Williams
+3,3,3,7,15,Nico,Rosberg,Bahrain International Circuit,Williams
+3,6,3,14,\N,Kazuki,Nakajima,Bahrain International Circuit,Williams
+4,3,3,9,9,Nico,Rosberg,Circuit de Barcelona-Catalunya,Williams
+4,6,3,12,\N,Kazuki,Nakajima,Circuit de Barcelona-Catalunya,Williams
+5,3,3,9,8,Nico,Rosberg,Istanbul Park,Williams
+5,6,3,11,13,Kazuki,Nakajima,Istanbul Park,Williams
+6,3,3,6,6,Nico,Rosberg,Circuit de Monaco,Williams
+6,6,3,10,15,Kazuki,Nakajima,Circuit de Monaco,Williams
+7,3,3,9,5,Nico,Rosberg,Circuit Gilles Villeneuve,Williams
+7,6,3,12,12,Kazuki,Nakajima,Circuit Gilles Villeneuve,Williams
+8,3,3,7,5,Nico,Rosberg,Circuit de Nevers Magny-Cours,Williams
+8,6,3,5,11,Kazuki,Nakajima,Circuit de Nevers Magny-Cours,Williams
+9,3,3,15,4,Nico,Rosberg,Silverstone Circuit,Williams
+9,6,3,13,12,Kazuki,Nakajima,Silverstone Circuit,Williams
+10,3,3,5,4,Nico,Rosberg,Hockenheimring,Williams
+10,6,3,9,9,Kazuki,Nakajima,Hockenheimring,Williams
+11,3,3,7,5,Nico,Rosberg,Hungaroring,Williams
+11,6,3,17,18,Kazuki,Nakajima,Hungaroring,Williams
+12,3,3,10,8,Nico,Rosberg,Valencia Street Circuit,Williams
+12,6,3,18,13,Kazuki,Nakajima,Valencia Street Circuit,Williams
+13,3,3,18,16,Nico,Rosberg,Circuit de Spa-Francorchamps,Williams
+13,6,3,17,10,Kazuki,Nakajima,Circuit de Spa-Francorchamps,Williams
+14,3,3,3,11,Nico,Rosberg,Autodromo Nazionale di Monza,Williams
+14,6,3,10,9,Kazuki,Nakajima,Autodromo Nazionale di Monza,Williams
+15,3,3,7,5,Nico,Rosberg,Marina Bay Street Circuit,Williams
+15,6,3,15,15,Kazuki,Nakajima,Marina Bay Street Circuit,Williams
+16,3,3,7,\N,Nico,Rosberg,Fuji Speedway,Williams
+16,6,3,9,\N,Kazuki,Nakajima,Fuji Speedway,Williams
+17,3,3,9,9,Nico,Rosberg,Shanghai International Circuit,Williams
+17,6,3,13,13,Kazuki,Nakajima,Shanghai International Circuit,Williams
+53,3,3,12,7,Nico,Rosberg,Rouen-Les-Essarts,Williams
+53,17,3,7,6,Mark,Webber,Rouen-Les-Essarts,Williams
+54,3,3,3,\N,Nico,Rosberg,Le Mans,Williams
+54,17,3,4,\N,Mark,Webber,Le Mans,Williams
+55,3,3,14,\N,Nico,Rosberg,Reims-Gueux,Williams
+55,17,3,7,\N,Mark,Webber,Reims-Gueux,Williams
+56,3,3,13,11,Nico,Rosberg,Prince George Circuit,Williams
+56,17,3,10,6,Mark,Webber,Prince George Circuit,Williams
+57,3,3,22,7,Nico,Rosberg,Zeltweg,Williams
+57,17,3,19,\N,Mark,Webber,Zeltweg,Williams
+58,3,3,13,11,Nico,Rosberg,Aintree,Williams
+58,17,3,11,9,Mark,Webber,Aintree,Williams
+59,3,3,8,\N,Nico,Rosberg,Circuito da Boavista,Williams
+59,17,3,2,\N,Mark,Webber,Circuito da Boavista,Williams
+60,3,3,12,9,Nico,Rosberg,Riverside International Raceway,Williams
+60,17,3,17,\N,Mark,Webber,Riverside International Raceway,Williams
+61,3,3,6,\N,Nico,Rosberg,AVUS,Williams
+61,17,3,16,12,Mark,Webber,AVUS,Williams
+62,3,3,21,9,Nico,Rosberg,Monsanto Park Circuit,Williams
+62,17,3,12,\N,Mark,Webber,Monsanto Park Circuit,Williams
+63,3,3,18,14,Nico,Rosberg,Sebring International Raceway,Williams
+63,17,3,10,\N,Mark,Webber,Sebring International Raceway,Williams
+64,3,3,14,\N,Nico,Rosberg,Ain Diab,Williams
+64,17,3,11,\N,Mark,Webber,Ain Diab,Williams
+65,3,3,18,\N,Nico,Rosberg,Pescara Circuit,Williams
+65,17,3,5,\N,Mark,Webber,Pescara Circuit,Williams
+66,3,3,14,\N,Nico,Rosberg,Circuit Bremgarten,Williams
+66,17,3,9,10,Mark,Webber,Circuit Bremgarten,Williams
+67,3,3,12,\N,Nico,Rosberg,Circuit de Pedralbes,Williams
+67,17,3,19,10,Mark,Webber,Circuit de Pedralbes,Williams
+68,3,3,15,11,Nico,Rosberg,Buddh International Circuit,Williams
+68,17,3,14,8,Mark,Webber,Buddh International Circuit,Williams
+69,3,3,10,10,Nico,Rosberg,Circuit of the Americas,Williams
+69,17,3,14,\N,Mark,Webber,Circuit of the Americas,Williams
+70,3,3,13,\N,Nico,Rosberg,Red Bull Ring,Williams
+70,17,3,11,\N,Mark,Webber,Red Bull Ring,Williams
+71,2,3,7,\N,Nick,Heidfeld,Sochi Autodrom,Williams
+71,17,3,3,5,Mark,Webber,Sochi Autodrom,Williams
+73,2,3,4,\N,Nick,Heidfeld,Baku City Circuit,Williams
+73,17,3,5,6,Mark,Webber,Baku City Circuit,Williams
+75,2,3,17,10,Nick,Heidfeld,Autódromo Internacional do Algarve,Williams
+75,17,3,2,6,Mark,Webber,Autódromo Internacional do Algarve,Williams
+76,2,3,6,2,Nick,Heidfeld,Autodromo Internazionale del Mugello,Williams
+76,17,3,3,3,Mark,Webber,Autodromo Internazionale del Mugello,Williams
+77,2,3,1,2,Nick,Heidfeld,Jeddah Corniche Circuit,Williams
+77,17,3,3,\N,Mark,Webber,Jeddah Corniche Circuit,Williams
+78,2,3,13,\N,Nick,Heidfeld,Losail International Circuit,Williams
+78,17,3,14,5,Mark,Webber,Losail International Circuit,Williams
+79,2,3,15,\N,Nick,Heidfeld,Miami International Autodrome,Williams
+79,17,3,9,\N,Mark,Webber,Miami International Autodrome,Williams
+80,2,3,14,14,Nick,Heidfeld,Las Vegas Strip Street Circuit,Williams
+80,17,3,12,12,Mark,Webber,Las Vegas Strip Street Circuit,Williams
+18,4,4,11,4,Fernando,Alonso,Autódromo José Carlos Pace,Renault
+18,12,4,20,\N,Nelson,Piquet Jr.,Autódromo José Carlos Pace,Renault
+19,4,4,7,8,Fernando,Alonso,Indianapolis Motor Speedway,Renault
+19,12,4,13,11,Nelson,Piquet Jr.,Indianapolis Motor Speedway,Renault
+20,4,4,10,10,Fernando,Alonso,Nürburgring,Renault
+20,12,4,14,\N,Nelson,Piquet Jr.,Nürburgring,Renault
+21,4,4,2,\N,Fernando,Alonso,Autodromo Enzo e Dino Ferrari,Renault
+21,12,4,10,\N,Nelson,Piquet Jr.,Autodromo Enzo e Dino Ferrari,Renault
+22,4,4,7,6,Fernando,Alonso,Suzuka Circuit,Renault
+22,12,4,17,15,Nelson,Piquet Jr.,Suzuka Circuit,Renault
+24,4,4,4,\N,Fernando,Alonso,Yas Marina Circuit,Renault
+24,12,4,15,\N,Nelson,Piquet Jr.,Yas Marina Circuit,Renault
+25,4,4,3,8,Fernando,Alonso,Autódromo Juan y Oscar Gálvez,Renault
+25,12,4,9,7,Nelson,Piquet Jr.,Autódromo Juan y Oscar Gálvez,Renault
+26,4,4,6,6,Fernando,Alonso,Circuito de Jerez,Renault
+26,12,4,7,\N,Nelson,Piquet Jr.,Circuito de Jerez,Renault
+27,4,4,5,11,Fernando,Alonso,Autódromo do Estoril,Renault
+27,12,4,17,2,Nelson,Piquet Jr.,Autódromo do Estoril,Renault
+28,4,4,7,4,Fernando,Alonso,Okayama International Circuit,Renault
+28,12,4,10,6,Nelson,Piquet Jr.,Okayama International Circuit,Renault
+29,4,4,12,\N,Fernando,Alonso,Adelaide Street Circuit,Renault
+29,12,4,15,11,Nelson,Piquet Jr.,Adelaide Street Circuit,Renault
+30,4,4,6,4,Fernando,Alonso,Kyalami,Renault
+30,12,4,12,\N,Nelson,Piquet Jr.,Kyalami,Renault
+31,4,4,8,4,Fernando,Alonso,Donington Park,Renault
+31,12,4,17,10,Nelson,Piquet Jr.,Donington Park,Renault
+32,4,4,15,1,Fernando,Alonso,Autódromo Hermanos Rodríguez,Renault
+32,12,4,16,\N,Nelson,Piquet Jr.,Autódromo Hermanos Rodríguez,Renault
+33,4,4,4,1,Fernando,Alonso,Phoenix street circuit,Renault
+33,12,4,12,4,Nelson,Piquet Jr.,Phoenix street circuit,Renault
+34,4,4,4,4,Fernando,Alonso,Circuit Paul Ricard,Renault
+34,12,4,10,8,Nelson,Piquet Jr.,Circuit Paul Ricard,Renault
+35,4,4,6,2,Fernando,Alonso,Korean International Circuit,Renault
+35,12,4,11,\N,Nelson,Piquet Jr.,Korean International Circuit,Renault
+36,5,4,13,10,Heikki,Kovalainen,Autódromo Internacional Nelson Piquet,Renault
+36,21,4,6,5,Giancarlo,Fisichella,Autódromo Internacional Nelson Piquet,Renault
+37,5,4,11,8,Heikki,Kovalainen,Detroit Street Circuit,Renault
+37,21,4,12,6,Giancarlo,Fisichella,Detroit Street Circuit,Renault
+38,5,4,12,9,Heikki,Kovalainen,Brands Hatch,Renault
+38,21,4,7,8,Giancarlo,Fisichella,Brands Hatch,Renault
+39,5,4,8,7,Heikki,Kovalainen,Circuit Park Zandvoort,Renault
+39,21,4,10,9,Giancarlo,Fisichella,Circuit Park Zandvoort,Renault
+40,5,4,15,13,Heikki,Kovalainen,Zolder,Renault
+40,21,4,4,4,Giancarlo,Fisichella,Zolder,Renault
+41,5,4,22,4,Heikki,Kovalainen,Dijon-Prenois,Renault
+41,21,4,9,\N,Giancarlo,Fisichella,Dijon-Prenois,Renault
+42,5,4,6,5,Heikki,Kovalainen,Fair Park,Renault
+42,21,4,10,9,Giancarlo,Fisichella,Fair Park,Renault
+43,5,4,6,15,Heikki,Kovalainen,Long Beach,Renault
+43,21,4,5,6,Giancarlo,Fisichella,Long Beach,Renault
+44,5,4,7,7,Heikki,Kovalainen,Las Vegas Street Circuit,Renault
+44,21,4,8,8,Giancarlo,Fisichella,Las Vegas Street Circuit,Renault
+45,5,4,7,8,Heikki,Kovalainen,Jarama,Renault
+45,21,4,13,10,Giancarlo,Fisichella,Jarama,Renault
+46,5,4,11,8,Heikki,Kovalainen,Watkins Glen,Renault
+46,21,4,13,12,Giancarlo,Fisichella,Watkins Glen,Renault
+47,5,4,7,6,Heikki,Kovalainen,Scandinavian Raceway,Renault
+47,21,4,10,9,Giancarlo,Fisichella,Scandinavian Raceway,Renault
+48,5,4,7,7,Heikki,Kovalainen,Mosport International Raceway,Renault
+48,21,4,15,12,Giancarlo,Fisichella,Mosport International Raceway,Renault
+49,5,4,9,8,Heikki,Kovalainen,Montjuïc,Renault
+49,21,4,22,\N,Giancarlo,Fisichella,Montjuïc,Renault
+50,5,4,11,2,Heikki,Kovalainen,Nivelles-Baulers,Renault
+50,21,4,10,5,Giancarlo,Fisichella,Nivelles-Baulers,Renault
+51,5,4,13,9,Heikki,Kovalainen,Charade Circuit,Renault
+51,21,4,18,11,Giancarlo,Fisichella,Charade Circuit,Renault
+52,5,4,17,\N,Heikki,Kovalainen,Circuit Mont-Tremblant,Renault
+52,21,4,12,\N,Giancarlo,Fisichella,Circuit Mont-Tremblant,Renault
+1,4,4,10,5,Fernando,Alonso,Albert Park Grand Prix Circuit,Renault
+1,12,4,14,\N,Nelson,Piquet Jr.,Albert Park Grand Prix Circuit,Renault
+2,4,4,9,11,Fernando,Alonso,Sepang International Circuit,Renault
+2,12,4,17,13,Nelson,Piquet Jr.,Sepang International Circuit,Renault
+3,4,4,2,9,Fernando,Alonso,Bahrain International Circuit,Renault
+3,12,4,16,16,Nelson,Piquet Jr.,Bahrain International Circuit,Renault
+4,4,4,7,8,Fernando,Alonso,Circuit de Barcelona-Catalunya,Renault
+4,12,4,15,10,Nelson,Piquet Jr.,Circuit de Barcelona-Catalunya,Renault
+5,4,4,8,5,Fernando,Alonso,Istanbul Park,Renault
+5,12,4,12,12,Nelson,Piquet Jr.,Istanbul Park,Renault
+6,4,4,9,7,Fernando,Alonso,Circuit de Monaco,Renault
+6,12,4,12,\N,Nelson,Piquet Jr.,Circuit de Monaco,Renault
+7,4,4,8,10,Fernando,Alonso,Circuit Gilles Villeneuve,Renault
+7,12,4,17,16,Nelson,Piquet Jr.,Circuit Gilles Villeneuve,Renault
+8,4,4,10,14,Fernando,Alonso,Circuit de Nevers Magny-Cours,Renault
+8,12,4,14,12,Nelson,Piquet Jr.,Circuit de Nevers Magny-Cours,Renault
+9,4,4,12,7,Fernando,Alonso,Silverstone Circuit,Renault
+9,12,4,10,13,Nelson,Piquet Jr.,Silverstone Circuit,Renault
+10,4,4,1,\N,Fernando,Alonso,Hockenheimring,Renault
+10,12,4,14,12,Nelson,Piquet Jr.,Hockenheimring,Renault
+11,4,4,8,6,Fernando,Alonso,Hungaroring,Renault
+11,154,4,14,15,Romain,Grosjean,Hungaroring,Renault
+12,4,4,13,\N,Fernando,Alonso,Valencia Street Circuit,Renault
+12,154,4,19,\N,Romain,Grosjean,Valencia Street Circuit,Renault
+13,4,4,8,5,Fernando,Alonso,Circuit de Spa-Francorchamps,Renault
+13,154,4,12,15,Romain,Grosjean,Circuit de Spa-Francorchamps,Renault
+14,4,4,5,3,Fernando,Alonso,Autodromo Nazionale di Monza,Renault
+14,154,4,18,\N,Romain,Grosjean,Autodromo Nazionale di Monza,Renault
+15,4,4,16,10,Fernando,Alonso,Marina Bay Street Circuit,Renault
+15,154,4,17,16,Romain,Grosjean,Marina Bay Street Circuit,Renault
+16,4,4,10,\N,Fernando,Alonso,Fuji Speedway,Renault
+16,154,4,13,13,Romain,Grosjean,Fuji Speedway,Renault
+17,4,4,15,14,Fernando,Alonso,Shanghai International Circuit,Renault
+17,154,4,19,18,Romain,Grosjean,Shanghai International Circuit,Renault
+53,4,4,4,1,Fernando,Alonso,Rouen-Les-Essarts,Renault
+53,21,4,9,\N,Giancarlo,Fisichella,Rouen-Les-Essarts,Renault
+54,4,4,7,2,Fernando,Alonso,Le Mans,Renault
+54,21,4,1,1,Giancarlo,Fisichella,Le Mans,Renault
+55,4,4,3,1,Fernando,Alonso,Reims-Gueux,Renault
+55,21,4,2,5,Giancarlo,Fisichella,Reims-Gueux,Renault
+56,4,4,5,2,Fernando,Alonso,Prince George Circuit,Renault
+56,21,4,11,8,Giancarlo,Fisichella,Prince George Circuit,Renault
+57,4,4,1,2,Fernando,Alonso,Zeltweg,Renault
+57,21,4,11,6,Giancarlo,Fisichella,Zeltweg,Renault
+58,4,4,1,1,Fernando,Alonso,Aintree,Renault
+58,21,4,2,3,Giancarlo,Fisichella,Aintree,Renault
+59,4,4,1,1,Fernando,Alonso,Circuito da Boavista,Renault
+59,21,4,9,6,Giancarlo,Fisichella,Circuito da Boavista,Renault
+60,4,4,1,1,Fernando,Alonso,Riverside International Raceway,Renault
+60,21,4,5,4,Giancarlo,Fisichella,Riverside International Raceway,Renault
+61,4,4,1,1,Fernando,Alonso,AVUS,Renault
+61,21,4,2,4,Giancarlo,Fisichella,AVUS,Renault
+62,4,4,5,5,Fernando,Alonso,Monsanto Park Circuit,Renault
+62,21,4,3,3,Giancarlo,Fisichella,Monsanto Park Circuit,Renault
+63,4,4,3,2,Fernando,Alonso,Sebring International Raceway,Renault
+63,21,4,7,6,Giancarlo,Fisichella,Sebring International Raceway,Renault
+64,4,4,7,5,Fernando,Alonso,Ain Diab,Renault
+64,21,4,5,6,Giancarlo,Fisichella,Ain Diab,Renault
+65,4,4,15,\N,Fernando,Alonso,Pescara Circuit,Renault
+65,21,4,7,\N,Giancarlo,Fisichella,Pescara Circuit,Renault
+66,4,4,3,2,Fernando,Alonso,Circuit Bremgarten,Renault
+66,21,4,4,6,Giancarlo,Fisichella,Circuit Bremgarten,Renault
+67,4,4,10,\N,Fernando,Alonso,Circuit de Pedralbes,Renault
+67,21,4,9,4,Giancarlo,Fisichella,Circuit de Pedralbes,Renault
+68,4,4,1,2,Fernando,Alonso,Buddh International Circuit,Renault
+68,21,4,2,3,Giancarlo,Fisichella,Buddh International Circuit,Renault
+69,4,4,5,1,Fernando,Alonso,Circuit of the Americas,Renault
+69,21,4,6,3,Giancarlo,Fisichella,Circuit of the Americas,Renault
+70,4,4,4,2,Fernando,Alonso,Red Bull Ring,Renault
+70,21,4,6,6,Giancarlo,Fisichella,Red Bull Ring,Renault
+71,4,4,13,3,Fernando,Alonso,Sochi Autodrom,Renault
+71,21,4,1,1,Giancarlo,Fisichella,Sochi Autodrom,Renault
+73,4,4,1,1,Fernando,Alonso,Baku City Circuit,Renault
+73,21,4,10,\N,Giancarlo,Fisichella,Baku City Circuit,Renault
+75,4,4,3,2,Fernando,Alonso,Autódromo Internacional do Algarve,Renault
+75,21,4,6,5,Giancarlo,Fisichella,Autódromo Internacional do Algarve,Renault
+76,4,4,2,4,Fernando,Alonso,Autodromo Internazionale del Mugello,Renault
+76,21,4,4,12,Giancarlo,Fisichella,Autodromo Internazionale del Mugello,Renault
+77,4,4,6,1,Fernando,Alonso,Jeddah Corniche Circuit,Renault
+77,21,4,9,6,Giancarlo,Fisichella,Jeddah Corniche Circuit,Renault
+78,4,4,3,\N,Fernando,Alonso,Losail International Circuit,Renault
+78,21,4,4,\N,Giancarlo,Fisichella,Losail International Circuit,Renault
+79,4,4,6,\N,Fernando,Alonso,Miami International Autodrome,Renault
+79,21,4,4,\N,Giancarlo,Fisichella,Miami International Autodrome,Renault
+80,4,4,1,1,Fernando,Alonso,Las Vegas Strip Street Circuit,Renault
+80,21,4,6,6,Giancarlo,Fisichella,Las Vegas Strip Street Circuit,Renault
+18,7,5,17,7,Sébastien,Bourdais,Autódromo José Carlos Pace,Toro Rosso
+18,20,5,9,\N,Sebastian,Vettel,Autódromo José Carlos Pace,Toro Rosso
+19,7,5,18,\N,Sébastien,Bourdais,Indianapolis Motor Speedway,Toro Rosso
+19,20,5,15,\N,Sebastian,Vettel,Indianapolis Motor Speedway,Toro Rosso
+20,7,5,15,15,Sébastien,Bourdais,Nürburgring,Toro Rosso
+20,20,5,19,\N,Sebastian,Vettel,Nürburgring,Toro Rosso
+21,7,5,16,\N,Sébastien,Bourdais,Autodromo Enzo e Dino Ferrari,Toro Rosso
+21,20,5,18,\N,Sebastian,Vettel,Autodromo Enzo e Dino Ferrari,Toro Rosso
+22,7,5,18,\N,Sébastien,Bourdais,Suzuka Circuit,Toro Rosso
+22,20,5,14,17,Sebastian,Vettel,Suzuka Circuit,Toro Rosso
+24,7,5,18,13,Sébastien,Bourdais,Yas Marina Circuit,Toro Rosso
+24,20,5,19,8,Sebastian,Vettel,Yas Marina Circuit,Toro Rosso
+25,7,5,14,17,Sébastien,Bourdais,Autódromo Juan y Oscar Gálvez,Toro Rosso
+25,20,5,12,12,Sebastian,Vettel,Autódromo Juan y Oscar Gálvez,Toro Rosso
+26,7,5,13,11,Sébastien,Bourdais,Circuito de Jerez,Toro Rosso
+26,20,5,8,\N,Sebastian,Vettel,Circuito de Jerez,Toro Rosso
+27,7,5,15,12,Sébastien,Bourdais,Autódromo do Estoril,Toro Rosso
+27,20,5,9,8,Sebastian,Vettel,Autódromo do Estoril,Toro Rosso
+28,7,5,19,18,Sébastien,Bourdais,Okayama International Circuit,Toro Rosso
+28,20,5,11,\N,Sebastian,Vettel,Okayama International Circuit,Toro Rosso
+29,7,5,10,10,Sébastien,Bourdais,Adelaide Street Circuit,Toro Rosso
+29,20,5,6,6,Sebastian,Vettel,Adelaide Street Circuit,Toro Rosso
+30,7,5,9,7,Sébastien,Bourdais,Kyalami,Toro Rosso
+30,20,5,10,5,Sebastian,Vettel,Kyalami,Toro Rosso
+31,7,5,4,18,Sébastien,Bourdais,Donington Park,Toro Rosso
+31,20,5,1,1,Sebastian,Vettel,Donington Park,Toro Rosso
+32,7,5,17,12,Sébastien,Bourdais,Autódromo Hermanos Rodríguez,Toro Rosso
+32,20,5,6,5,Sebastian,Vettel,Autódromo Hermanos Rodríguez,Toro Rosso
+33,7,5,10,10,Sébastien,Bourdais,Phoenix street circuit,Toro Rosso
+33,20,5,9,6,Sebastian,Vettel,Phoenix street circuit,Toro Rosso
+34,7,5,8,13,Sébastien,Bourdais,Circuit Paul Ricard,Toro Rosso
+34,20,5,6,9,Sebastian,Vettel,Circuit Paul Ricard,Toro Rosso
+35,7,5,9,14,Sébastien,Bourdais,Korean International Circuit,Toro Rosso
+35,20,5,7,4,Sebastian,Vettel,Korean International Circuit,Toro Rosso
+36,24,5,19,14,Vitantonio,Liuzzi,Autódromo Internacional Nelson Piquet,Toro Rosso
+36,26,5,17,\N,Scott,Speed,Autódromo Internacional Nelson Piquet,Toro Rosso
+37,24,5,16,17,Vitantonio,Liuzzi,Detroit Street Circuit,Toro Rosso
+37,26,5,17,14,Scott,Speed,Detroit Street Circuit,Toro Rosso
+38,24,5,18,\N,Vitantonio,Liuzzi,Brands Hatch,Toro Rosso
+38,26,5,19,\N,Scott,Speed,Brands Hatch,Toro Rosso
+39,24,5,16,\N,Vitantonio,Liuzzi,Circuit Park Zandvoort,Toro Rosso
+39,26,5,22,\N,Scott,Speed,Circuit Park Zandvoort,Toro Rosso
+40,24,5,12,\N,Vitantonio,Liuzzi,Zolder,Toro Rosso
+40,26,5,18,9,Scott,Speed,Zolder,Toro Rosso
+41,24,5,12,\N,Vitantonio,Liuzzi,Dijon-Prenois,Toro Rosso
+41,26,5,16,\N,Scott,Speed,Dijon-Prenois,Toro Rosso
+42,24,5,19,17,Vitantonio,Liuzzi,Fair Park,Toro Rosso
+42,26,5,20,13,Scott,Speed,Fair Park,Toro Rosso
+43,24,5,17,\N,Vitantonio,Liuzzi,Long Beach,Toro Rosso
+43,26,5,15,\N,Scott,Speed,Long Beach,Toro Rosso
+44,24,5,16,16,Vitantonio,Liuzzi,Las Vegas Street Circuit,Toro Rosso
+44,26,5,15,\N,Scott,Speed,Las Vegas Street Circuit,Toro Rosso
+45,24,5,19,\N,Vitantonio,Liuzzi,Jarama,Toro Rosso
+45,26,5,18,\N,Scott,Speed,Jarama,Toro Rosso
+46,20,5,20,16,Sebastian,Vettel,Watkins Glen,Toro Rosso
+46,24,5,16,\N,Vitantonio,Liuzzi,Watkins Glen,Toro Rosso
+47,20,5,18,19,Sebastian,Vettel,Scandinavian Raceway,Toro Rosso
+47,24,5,15,15,Vitantonio,Liuzzi,Scandinavian Raceway,Toro Rosso
+48,20,5,16,18,Sebastian,Vettel,Mosport International Raceway,Toro Rosso
+48,24,5,19,17,Vitantonio,Liuzzi,Mosport International Raceway,Toro Rosso
+49,20,5,16,\N,Sebastian,Vettel,Montjuïc,Toro Rosso
+49,24,5,13,12,Vitantonio,Liuzzi,Montjuïc,Toro Rosso
+50,20,5,8,\N,Sebastian,Vettel,Nivelles-Baulers,Toro Rosso
+50,24,5,14,9,Vitantonio,Liuzzi,Nivelles-Baulers,Toro Rosso
+51,20,5,17,4,Sebastian,Vettel,Charade Circuit,Toro Rosso
+51,24,5,11,6,Vitantonio,Liuzzi,Charade Circuit,Toro Rosso
+52,20,5,13,\N,Sebastian,Vettel,Circuit Mont-Tremblant,Toro Rosso
+52,24,5,14,13,Vitantonio,Liuzzi,Circuit Mont-Tremblant,Toro Rosso
+1,7,5,17,8,Sébastien,Bourdais,Albert Park Grand Prix Circuit,Toro Rosso
+1,67,5,13,7,Sébastien,Buemi,Albert Park Grand Prix Circuit,Toro Rosso
+2,7,5,15,10,Sébastien,Bourdais,Sepang International Circuit,Toro Rosso
+2,67,5,20,16,Sébastien,Buemi,Sepang International Circuit,Toro Rosso
+3,7,5,15,11,Sébastien,Bourdais,Bahrain International Circuit,Toro Rosso
+3,67,5,10,8,Sébastien,Buemi,Bahrain International Circuit,Toro Rosso
+4,7,5,20,13,Sébastien,Bourdais,Circuit de Barcelona-Catalunya,Toro Rosso
+4,67,5,16,17,Sébastien,Buemi,Circuit de Barcelona-Catalunya,Toro Rosso
+5,7,5,17,\N,Sébastien,Bourdais,Istanbul Park,Toro Rosso
+5,67,5,15,\N,Sébastien,Buemi,Istanbul Park,Toro Rosso
+6,7,5,14,8,Sébastien,Bourdais,Circuit de Monaco,Toro Rosso
+6,67,5,11,\N,Sébastien,Buemi,Circuit de Monaco,Toro Rosso
+7,7,5,20,18,Sébastien,Bourdais,Circuit Gilles Villeneuve,Toro Rosso
+7,67,5,18,15,Sébastien,Buemi,Circuit Gilles Villeneuve,Toro Rosso
+8,7,5,17,\N,Sébastien,Bourdais,Circuit de Nevers Magny-Cours,Toro Rosso
+8,67,5,19,18,Sébastien,Buemi,Circuit de Nevers Magny-Cours,Toro Rosso
+9,7,5,19,\N,Sébastien,Bourdais,Silverstone Circuit,Toro Rosso
+9,67,5,17,16,Sébastien,Buemi,Silverstone Circuit,Toro Rosso
+10,67,5,10,16,Sébastien,Buemi,Hockenheimring,Toro Rosso
+10,153,5,19,15,Jaime,Alguersuari,Hockenheimring,Toro Rosso
+11,67,5,15,\N,Sébastien,Buemi,Hungaroring,Toro Rosso
+11,153,5,19,16,Jaime,Alguersuari,Hungaroring,Toro Rosso
+12,67,5,16,12,Sébastien,Buemi,Valencia Street Circuit,Toro Rosso
+12,153,5,17,\N,Jaime,Alguersuari,Valencia Street Circuit,Toro Rosso
+13,67,5,19,13,Sébastien,Buemi,Circuit de Spa-Francorchamps,Toro Rosso
+13,153,5,20,\N,Jaime,Alguersuari,Circuit de Spa-Francorchamps,Toro Rosso
+14,67,5,13,\N,Sébastien,Buemi,Autodromo Nazionale di Monza,Toro Rosso
+14,153,5,16,\N,Jaime,Alguersuari,Autodromo Nazionale di Monza,Toro Rosso
+15,67,5,13,\N,Sébastien,Buemi,Marina Bay Street Circuit,Toro Rosso
+15,153,5,12,\N,Jaime,Alguersuari,Marina Bay Street Circuit,Toro Rosso
+16,67,5,6,7,Sébastien,Buemi,Fuji Speedway,Toro Rosso
+16,153,5,12,14,Jaime,Alguersuari,Fuji Speedway,Toro Rosso
+17,67,5,10,8,Sébastien,Buemi,Shanghai International Circuit,Toro Rosso
+17,153,5,14,\N,Jaime,Alguersuari,Shanghai International Circuit,Toro Rosso
+53,24,5,15,11,Vitantonio,Liuzzi,Rouen-Les-Essarts,Toro Rosso
+53,26,5,16,13,Scott,Speed,Rouen-Les-Essarts,Toro Rosso
+54,24,5,13,11,Vitantonio,Liuzzi,Le Mans,Toro Rosso
+54,26,5,12,\N,Scott,Speed,Le Mans,Toro Rosso
+55,24,5,12,\N,Vitantonio,Liuzzi,Reims-Gueux,Toro Rosso
+55,26,5,18,9,Scott,Speed,Reims-Gueux,Toro Rosso
+56,24,5,16,14,Vitantonio,Liuzzi,Prince George Circuit,Toro Rosso
+56,26,5,18,15,Scott,Speed,Prince George Circuit,Toro Rosso
+57,24,5,14,\N,Vitantonio,Liuzzi,Zeltweg,Toro Rosso
+57,26,5,17,11,Scott,Speed,Zeltweg,Toro Rosso
+58,24,5,15,15,Vitantonio,Liuzzi,Aintree,Toro Rosso
+58,26,5,16,\N,Scott,Speed,Aintree,Toro Rosso
+59,24,5,12,10,Vitantonio,Liuzzi,Circuito da Boavista,Toro Rosso
+59,26,5,18,13,Scott,Speed,Circuito da Boavista,Toro Rosso
+60,24,5,13,13,Vitantonio,Liuzzi,Riverside International Raceway,Toro Rosso
+60,26,5,15,\N,Scott,Speed,Riverside International Raceway,Toro Rosso
+61,24,5,15,13,Vitantonio,Liuzzi,AVUS,Toro Rosso
+61,26,5,17,10,Scott,Speed,AVUS,Toro Rosso
+62,24,5,20,8,Vitantonio,Liuzzi,Monsanto Park Circuit,Toro Rosso
+62,26,5,13,\N,Scott,Speed,Monsanto Park Circuit,Toro Rosso
+63,24,5,22,13,Vitantonio,Liuzzi,Sebring International Raceway,Toro Rosso
+63,26,5,14,10,Scott,Speed,Sebring International Raceway,Toro Rosso
+64,24,5,16,10,Vitantonio,Liuzzi,Ain Diab,Toro Rosso
+64,26,5,19,12,Scott,Speed,Ain Diab,Toro Rosso
+65,24,5,17,\N,Vitantonio,Liuzzi,Pescara Circuit,Toro Rosso
+65,26,5,20,11,Scott,Speed,Pescara Circuit,Toro Rosso
+66,24,5,18,\N,Vitantonio,Liuzzi,Circuit Bremgarten,Toro Rosso
+66,26,5,17,13,Scott,Speed,Circuit Bremgarten,Toro Rosso
+67,24,5,17,14,Vitantonio,Liuzzi,Circuit de Pedralbes,Toro Rosso
+67,26,5,15,13,Scott,Speed,Circuit de Pedralbes,Toro Rosso
+68,24,5,13,10,Vitantonio,Liuzzi,Buddh International Circuit,Toro Rosso
+68,26,5,11,14,Scott,Speed,Buddh International Circuit,Toro Rosso
+69,24,5,15,14,Vitantonio,Liuzzi,Circuit of the Americas,Toro Rosso
+69,26,5,19,18,Scott,Speed,Circuit of the Americas,Toro Rosso
+70,24,5,15,13,Vitantonio,Liuzzi,Red Bull Ring,Toro Rosso
+70,26,5,16,11,Scott,Speed,Red Bull Ring,Toro Rosso
+18,8,6,15,8,Kimi,Räikkönen,Autódromo José Carlos Pace,Ferrari
+18,13,6,4,\N,Felipe,Massa,Autódromo José Carlos Pace,Ferrari
+19,8,6,2,1,Kimi,Räikkönen,Indianapolis Motor Speedway,Ferrari
+19,13,6,1,\N,Felipe,Massa,Indianapolis Motor Speedway,Ferrari
+20,8,6,4,2,Kimi,Räikkönen,Nürburgring,Ferrari
+20,13,6,2,1,Felipe,Massa,Nürburgring,Ferrari
+21,8,6,1,1,Kimi,Räikkönen,Autodromo Enzo e Dino Ferrari,Ferrari
+21,13,6,3,2,Felipe,Massa,Autodromo Enzo e Dino Ferrari,Ferrari
+22,8,6,4,3,Kimi,Räikkönen,Suzuka Circuit,Ferrari
+22,13,6,1,1,Felipe,Massa,Suzuka Circuit,Ferrari
+24,8,6,3,\N,Kimi,Räikkönen,Yas Marina Circuit,Ferrari
+24,13,6,6,5,Felipe,Massa,Yas Marina Circuit,Ferrari
+25,8,6,1,2,Kimi,Räikkönen,Autódromo Juan y Oscar Gálvez,Ferrari
+25,13,6,2,1,Felipe,Massa,Autódromo Juan y Oscar Gálvez,Ferrari
+26,8,6,3,4,Kimi,Räikkönen,Circuito de Jerez,Ferrari
+26,13,6,9,13,Felipe,Massa,Circuito de Jerez,Ferrari
+27,8,6,6,6,Kimi,Räikkönen,Autódromo do Estoril,Ferrari
+27,13,6,2,3,Felipe,Massa,Autódromo do Estoril,Ferrari
+28,8,6,6,3,Kimi,Räikkönen,Okayama International Circuit,Ferrari
+28,13,6,3,17,Felipe,Massa,Okayama International Circuit,Ferrari
+29,8,6,4,\N,Kimi,Räikkönen,Adelaide Street Circuit,Ferrari
+29,13,6,1,1,Felipe,Massa,Adelaide Street Circuit,Ferrari
+30,8,6,4,18,Kimi,Räikkönen,Kyalami,Ferrari
+30,13,6,2,1,Felipe,Massa,Kyalami,Ferrari
+31,8,6,14,9,Kimi,Räikkönen,Donington Park,Ferrari
+31,13,6,6,6,Felipe,Massa,Donington Park,Ferrari
+32,8,6,3,15,Kimi,Räikkönen,Autódromo Hermanos Rodríguez,Ferrari
+32,13,6,1,13,Felipe,Massa,Autódromo Hermanos Rodríguez,Ferrari
+33,8,6,2,3,Kimi,Räikkönen,Phoenix street circuit,Ferrari
+33,13,6,5,7,Felipe,Massa,Phoenix street circuit,Ferrari
+34,8,6,2,3,Kimi,Räikkönen,Circuit Paul Ricard,Ferrari
+34,13,6,3,2,Felipe,Massa,Circuit Paul Ricard,Ferrari
+35,8,6,3,3,Kimi,Räikkönen,Korean International Circuit,Ferrari
+35,13,6,1,1,Felipe,Massa,Korean International Circuit,Ferrari
+36,8,6,1,1,Kimi,Räikkönen,Autódromo Internacional Nelson Piquet,Ferrari
+36,13,6,22,6,Felipe,Massa,Autódromo Internacional Nelson Piquet,Ferrari
+37,8,6,3,3,Kimi,Räikkönen,Detroit Street Circuit,Ferrari
+37,13,6,1,5,Felipe,Massa,Detroit Street Circuit,Ferrari
+38,8,6,3,3,Kimi,Räikkönen,Brands Hatch,Ferrari
+38,13,6,1,1,Felipe,Massa,Brands Hatch,Ferrari
+39,8,6,3,\N,Kimi,Räikkönen,Circuit Park Zandvoort,Ferrari
+39,13,6,1,1,Felipe,Massa,Circuit Park Zandvoort,Ferrari
+40,8,6,16,8,Kimi,Räikkönen,Zolder,Ferrari
+40,13,6,3,3,Felipe,Massa,Zolder,Ferrari
+41,8,6,4,5,Kimi,Räikkönen,Dijon-Prenois,Ferrari
+41,13,6,5,\N,Felipe,Massa,Dijon-Prenois,Ferrari
+42,8,6,4,4,Kimi,Räikkönen,Fair Park,Ferrari
+42,13,6,3,3,Felipe,Massa,Fair Park,Ferrari
+43,8,6,3,1,Kimi,Räikkönen,Long Beach,Ferrari
+43,13,6,1,2,Felipe,Massa,Long Beach,Ferrari
+44,8,6,2,1,Kimi,Räikkönen,Las Vegas Street Circuit,Ferrari
+44,13,6,4,5,Felipe,Massa,Las Vegas Street Circuit,Ferrari
+45,8,6,1,\N,Kimi,Räikkönen,Jarama,Ferrari
+45,13,6,3,2,Felipe,Massa,Jarama,Ferrari
+46,8,6,3,2,Kimi,Räikkönen,Watkins Glen,Ferrari
+46,13,6,14,13,Felipe,Massa,Watkins Glen,Ferrari
+47,8,6,3,2,Kimi,Räikkönen,Scandinavian Raceway,Ferrari
+47,13,6,1,1,Felipe,Massa,Scandinavian Raceway,Ferrari
+48,8,6,5,3,Kimi,Räikkönen,Mosport International Raceway,Ferrari
+48,13,6,3,\N,Felipe,Massa,Mosport International Raceway,Ferrari
+49,8,6,1,1,Kimi,Räikkönen,Montjuïc,Ferrari
+49,13,6,2,2,Felipe,Massa,Montjuïc,Ferrari
+50,8,6,3,3,Kimi,Räikkönen,Nivelles-Baulers,Ferrari
+50,13,6,4,6,Felipe,Massa,Nivelles-Baulers,Ferrari
+51,8,6,2,1,Kimi,Räikkönen,Charade Circuit,Ferrari
+51,13,6,3,3,Felipe,Massa,Charade Circuit,Ferrari
+52,8,6,3,1,Kimi,Räikkönen,Circuit Mont-Tremblant,Ferrari
+52,13,6,1,2,Felipe,Massa,Circuit Mont-Tremblant,Ferrari
+1,8,6,7,15,Kimi,Räikkönen,Albert Park Grand Prix Circuit,Ferrari
+1,13,6,6,\N,Felipe,Massa,Albert Park Grand Prix Circuit,Ferrari
+2,8,6,7,14,Kimi,Räikkönen,Sepang International Circuit,Ferrari
+2,13,6,16,9,Felipe,Massa,Sepang International Circuit,Ferrari
+3,8,6,8,10,Kimi,Räikkönen,Bahrain International Circuit,Ferrari
+3,13,6,13,\N,Felipe,Massa,Bahrain International Circuit,Ferrari
+4,8,6,10,6,Kimi,Räikkönen,Circuit de Barcelona-Catalunya,Ferrari
+4,13,6,8,14,Felipe,Massa,Circuit de Barcelona-Catalunya,Ferrari
+5,8,6,16,\N,Kimi,Räikkönen,Istanbul Park,Ferrari
+5,13,6,4,6,Felipe,Massa,Istanbul Park,Ferrari
+6,8,6,2,3,Kimi,Räikkönen,Circuit de Monaco,Ferrari
+6,13,6,5,4,Felipe,Massa,Circuit de Monaco,Ferrari
+7,8,6,6,9,Kimi,Räikkönen,Circuit Gilles Villeneuve,Ferrari
+7,13,6,7,6,Felipe,Massa,Circuit Gilles Villeneuve,Ferrari
+8,8,6,9,8,Kimi,Räikkönen,Circuit de Nevers Magny-Cours,Ferrari
+8,13,6,11,4,Felipe,Massa,Circuit de Nevers Magny-Cours,Ferrari
+9,8,6,9,\N,Kimi,Räikkönen,Silverstone Circuit,Ferrari
+9,13,6,8,3,Felipe,Massa,Silverstone Circuit,Ferrari
+10,8,6,7,2,Kimi,Räikkönen,Hockenheimring,Ferrari
+10,13,6,0,\N,Felipe,Massa,Hockenheimring,Ferrari
+11,8,6,6,3,Kimi,Räikkönen,Hungaroring,Ferrari
+11,69,6,20,17,Luca,Badoer,Hungaroring,Ferrari
+12,8,6,6,1,Kimi,Räikkönen,Valencia Street Circuit,Ferrari
+12,69,6,20,14,Luca,Badoer,Valencia Street Circuit,Ferrari
+13,8,6,3,3,Kimi,Räikkönen,Circuit de Spa-Francorchamps,Ferrari
+13,21,6,14,9,Giancarlo,Fisichella,Circuit de Spa-Francorchamps,Ferrari
+14,8,6,12,10,Kimi,Räikkönen,Autodromo Nazionale di Monza,Ferrari
+14,21,6,17,13,Giancarlo,Fisichella,Autodromo Nazionale di Monza,Ferrari
+15,8,6,5,4,Kimi,Räikkönen,Marina Bay Street Circuit,Ferrari
+15,21,6,14,12,Giancarlo,Fisichella,Marina Bay Street Circuit,Ferrari
+16,8,6,5,6,Kimi,Räikkönen,Fuji Speedway,Ferrari
+16,21,6,19,11,Giancarlo,Fisichella,Fuji Speedway,Ferrari
+17,8,6,11,12,Kimi,Räikkönen,Shanghai International Circuit,Ferrari
+17,21,6,20,16,Giancarlo,Fisichella,Shanghai International Circuit,Ferrari
+53,13,6,2,9,Felipe,Massa,Rouen-Les-Essarts,Ferrari
+53,30,6,1,2,Michael,Schumacher,Rouen-Les-Essarts,Ferrari
+54,13,6,21,5,Felipe,Massa,Le Mans,Ferrari
+54,30,6,14,6,Michael,Schumacher,Le Mans,Ferrari
+55,13,6,15,\N,Felipe,Massa,Reims-Gueux,Ferrari
+55,30,6,10,\N,Michael,Schumacher,Reims-Gueux,Ferrari
+56,13,6,4,4,Felipe,Massa,Prince George Circuit,Ferrari
+56,30,6,1,1,Michael,Schumacher,Prince George Circuit,Ferrari
+57,13,6,3,3,Felipe,Massa,Zeltweg,Ferrari
+57,30,6,2,1,Michael,Schumacher,Zeltweg,Ferrari
+58,13,6,4,4,Felipe,Massa,Aintree,Ferrari
+58,30,6,3,2,Michael,Schumacher,Aintree,Ferrari
+59,13,6,21,9,Felipe,Massa,Circuito da Boavista,Ferrari
+59,30,6,22,5,Michael,Schumacher,Circuito da Boavista,Ferrari
+60,13,6,4,5,Felipe,Massa,Riverside International Raceway,Ferrari
+60,30,6,3,2,Michael,Schumacher,Riverside International Raceway,Ferrari
+61,13,6,10,5,Felipe,Massa,AVUS,Ferrari
+61,30,6,5,2,Michael,Schumacher,AVUS,Ferrari
+62,13,6,2,2,Felipe,Massa,Monsanto Park Circuit,Ferrari
+62,30,6,1,1,Michael,Schumacher,Monsanto Park Circuit,Ferrari
+63,13,6,2,3,Felipe,Massa,Sebring International Raceway,Ferrari
+63,30,6,1,1,Michael,Schumacher,Sebring International Raceway,Ferrari
+64,13,6,3,2,Felipe,Massa,Ain Diab,Ferrari
+64,30,6,2,1,Michael,Schumacher,Ain Diab,Ferrari
+65,13,6,2,7,Felipe,Massa,Pescara Circuit,Ferrari
+65,30,6,11,8,Michael,Schumacher,Pescara Circuit,Ferrari
+66,13,6,1,1,Felipe,Massa,Circuit Bremgarten,Ferrari
+66,30,6,2,3,Michael,Schumacher,Circuit Bremgarten,Ferrari
+67,13,6,4,9,Felipe,Massa,Circuit de Pedralbes,Ferrari
+67,30,6,2,1,Michael,Schumacher,Circuit de Pedralbes,Ferrari
+68,13,6,20,\N,Felipe,Massa,Buddh International Circuit,Ferrari
+68,30,6,6,1,Michael,Schumacher,Buddh International Circuit,Ferrari
+69,13,6,1,2,Felipe,Massa,Circuit of the Americas,Ferrari
+69,30,6,2,\N,Michael,Schumacher,Circuit of the Americas,Ferrari
+70,13,6,1,1,Felipe,Massa,Red Bull Ring,Ferrari
+70,30,6,10,4,Michael,Schumacher,Red Bull Ring,Ferrari
+71,22,6,11,2,Rubens,Barrichello,Sochi Autodrom,Ferrari
+71,30,6,19,\N,Michael,Schumacher,Sochi Autodrom,Ferrari
+73,22,6,20,9,Rubens,Barrichello,Baku City Circuit,Ferrari
+73,30,6,2,\N,Michael,Schumacher,Baku City Circuit,Ferrari
+75,22,6,16,9,Rubens,Barrichello,Autódromo Internacional do Algarve,Ferrari
+75,30,6,8,\N,Michael,Schumacher,Autódromo Internacional do Algarve,Ferrari
+76,22,6,10,8,Rubens,Barrichello,Autodromo Internazionale del Mugello,Ferrari
+76,30,6,8,7,Michael,Schumacher,Autodromo Internazionale del Mugello,Ferrari
+77,22,6,7,3,Rubens,Barrichello,Jeddah Corniche Circuit,Ferrari
+77,30,6,10,5,Michael,Schumacher,Jeddah Corniche Circuit,Ferrari
+78,22,6,20,3,Rubens,Barrichello,Losail International Circuit,Ferrari
+78,30,6,2,2,Michael,Schumacher,Losail International Circuit,Ferrari
+79,22,6,7,2,Rubens,Barrichello,Miami International Autodrome,Ferrari
+79,30,6,5,1,Michael,Schumacher,Miami International Autodrome,Ferrari
+80,22,6,5,9,Rubens,Barrichello,Las Vegas Strip Street Circuit,Ferrari
+80,30,6,3,3,Michael,Schumacher,Las Vegas Strip Street Circuit,Ferrari
+18,10,7,18,\N,Timo,Glock,Autódromo José Carlos Pace,Toyota
+18,15,7,6,\N,Jarno,Trulli,Autódromo José Carlos Pace,Toyota
+19,10,7,10,\N,Timo,Glock,Indianapolis Motor Speedway,Toyota
+19,15,7,3,4,Jarno,Trulli,Indianapolis Motor Speedway,Toyota
+20,10,7,13,9,Timo,Glock,Nürburgring,Toyota
+20,15,7,7,6,Jarno,Trulli,Nürburgring,Toyota
+21,10,7,14,11,Timo,Glock,Autodromo Enzo e Dino Ferrari,Toyota
+21,15,7,8,8,Jarno,Trulli,Autodromo Enzo e Dino Ferrari,Toyota
+22,10,7,15,13,Timo,Glock,Suzuka Circuit,Toyota
+22,15,7,8,10,Jarno,Trulli,Suzuka Circuit,Toyota
+24,10,7,11,4,Timo,Glock,Yas Marina Circuit,Toyota
+24,15,7,14,6,Jarno,Trulli,Yas Marina Circuit,Toyota
+25,10,7,8,11,Timo,Glock,Autódromo Juan y Oscar Gálvez,Toyota
+25,15,7,4,3,Jarno,Trulli,Autódromo Juan y Oscar Gálvez,Toyota
+26,10,7,12,12,Timo,Glock,Circuito de Jerez,Toyota
+26,15,7,14,7,Jarno,Trulli,Circuito de Jerez,Toyota
+27,10,7,11,\N,Timo,Glock,Autódromo do Estoril,Toyota
+27,15,7,4,9,Jarno,Trulli,Autódromo do Estoril,Toyota
+28,10,7,5,2,Timo,Glock,Okayama International Circuit,Toyota
+28,15,7,9,7,Jarno,Trulli,Okayama International Circuit,Toyota
+29,10,7,13,7,Timo,Glock,Adelaide Street Circuit,Toyota
+29,15,7,7,5,Jarno,Trulli,Adelaide Street Circuit,Toyota
+30,10,7,13,9,Timo,Glock,Kyalami,Toyota
+30,15,7,11,16,Jarno,Trulli,Kyalami,Toyota
+31,10,7,9,11,Timo,Glock,Donington Park,Toyota
+31,15,7,7,13,Jarno,Trulli,Donington Park,Toyota
+32,10,7,7,4,Timo,Glock,Autódromo Hermanos Rodríguez,Toyota
+32,15,7,11,\N,Jarno,Trulli,Autódromo Hermanos Rodríguez,Toyota
+33,10,7,8,\N,Timo,Glock,Phoenix street circuit,Toyota
+33,15,7,7,5,Jarno,Trulli,Phoenix street circuit,Toyota
+34,10,7,12,7,Timo,Glock,Circuit Paul Ricard,Toyota
+34,15,7,7,\N,Jarno,Trulli,Circuit Paul Ricard,Toyota
+35,10,7,10,6,Timo,Glock,Korean International Circuit,Toyota
+35,15,7,2,8,Jarno,Trulli,Korean International Circuit,Toyota
+36,15,7,8,9,Jarno,Trulli,Autódromo Internacional Nelson Piquet,Toyota
+36,23,7,9,8,Ralf,Schumacher,Autódromo Internacional Nelson Piquet,Toyota
+37,15,7,8,7,Jarno,Trulli,Detroit Street Circuit,Toyota
+37,23,7,9,15,Ralf,Schumacher,Detroit Street Circuit,Toyota
+38,15,7,9,7,Jarno,Trulli,Brands Hatch,Toyota
+38,23,7,14,12,Ralf,Schumacher,Brands Hatch,Toyota
+39,15,7,6,\N,Jarno,Trulli,Circuit Park Zandvoort,Toyota
+39,23,7,17,\N,Ralf,Schumacher,Circuit Park Zandvoort,Toyota
+40,15,7,14,15,Jarno,Trulli,Zolder,Toyota
+40,23,7,20,16,Ralf,Schumacher,Zolder,Toyota
+41,15,7,10,\N,Jarno,Trulli,Dijon-Prenois,Toyota
+41,23,7,18,8,Ralf,Schumacher,Dijon-Prenois,Toyota
+42,15,7,8,6,Jarno,Trulli,Fair Park,Toyota
+42,23,7,12,\N,Ralf,Schumacher,Fair Park,Toyota
+43,15,7,8,\N,Jarno,Trulli,Long Beach,Toyota
+43,23,7,11,10,Ralf,Schumacher,Long Beach,Toyota
+44,15,7,10,\N,Jarno,Trulli,Las Vegas Street Circuit,Toyota
+44,23,7,6,\N,Ralf,Schumacher,Las Vegas Street Circuit,Toyota
+45,15,7,8,13,Jarno,Trulli,Jarama,Toyota
+45,23,7,9,\N,Ralf,Schumacher,Jarama,Toyota
+46,15,7,8,10,Jarno,Trulli,Watkins Glen,Toyota
+46,23,7,5,6,Ralf,Schumacher,Watkins Glen,Toyota
+47,15,7,9,16,Jarno,Trulli,Scandinavian Raceway,Toyota
+47,23,7,16,12,Ralf,Schumacher,Scandinavian Raceway,Toyota
+48,15,7,9,11,Jarno,Trulli,Mosport International Raceway,Toyota
+48,23,7,18,15,Ralf,Schumacher,Mosport International Raceway,Toyota
+49,15,7,8,11,Jarno,Trulli,Montjuïc,Toyota
+49,23,7,10,10,Ralf,Schumacher,Montjuïc,Toyota
+50,15,7,13,13,Jarno,Trulli,Nivelles-Baulers,Toyota
+50,23,7,15,\N,Ralf,Schumacher,Nivelles-Baulers,Toyota
+51,15,7,12,13,Jarno,Trulli,Charade Circuit,Toyota
+51,23,7,6,\N,Ralf,Schumacher,Charade Circuit,Toyota
+52,15,7,8,8,Jarno,Trulli,Circuit Mont-Tremblant,Toyota
+52,23,7,15,11,Ralf,Schumacher,Circuit Mont-Tremblant,Toyota
+1,10,7,19,4,Timo,Glock,Albert Park Grand Prix Circuit,Toyota
+1,15,7,20,3,Jarno,Trulli,Albert Park Grand Prix Circuit,Toyota
+2,10,7,3,3,Timo,Glock,Sepang International Circuit,Toyota
+2,15,7,2,4,Jarno,Trulli,Sepang International Circuit,Toyota
+3,10,7,19,7,Timo,Glock,Bahrain International Circuit,Toyota
+3,15,7,6,\N,Jarno,Trulli,Bahrain International Circuit,Toyota
+4,10,7,2,7,Timo,Glock,Circuit de Barcelona-Catalunya,Toyota
+4,15,7,1,3,Jarno,Trulli,Circuit de Barcelona-Catalunya,Toyota
+5,10,7,6,10,Timo,Glock,Istanbul Park,Toyota
+5,15,7,7,\N,Jarno,Trulli,Istanbul Park,Toyota
+6,10,7,20,10,Timo,Glock,Circuit de Monaco,Toyota
+6,15,7,18,13,Jarno,Trulli,Circuit de Monaco,Toyota
+7,10,7,13,8,Timo,Glock,Circuit Gilles Villeneuve,Toyota
+7,15,7,5,4,Jarno,Trulli,Circuit Gilles Villeneuve,Toyota
+8,10,7,8,9,Timo,Glock,Circuit de Nevers Magny-Cours,Toyota
+8,15,7,4,7,Jarno,Trulli,Circuit de Nevers Magny-Cours,Toyota
+9,10,7,20,9,Timo,Glock,Silverstone Circuit,Toyota
+9,15,7,14,17,Jarno,Trulli,Silverstone Circuit,Toyota
+10,10,7,13,6,Timo,Glock,Hockenheimring,Toyota
+10,15,7,11,8,Jarno,Trulli,Hockenheimring,Toyota
+11,10,7,13,14,Timo,Glock,Hungaroring,Toyota
+11,15,7,18,13,Jarno,Trulli,Hungaroring,Toyota
+12,10,7,7,10,Timo,Glock,Valencia Street Circuit,Toyota
+12,15,7,2,\N,Jarno,Trulli,Valencia Street Circuit,Toyota
+13,10,7,16,11,Timo,Glock,Circuit de Spa-Francorchamps,Toyota
+13,15,7,11,14,Jarno,Trulli,Circuit de Spa-Francorchamps,Toyota
+14,10,7,6,2,Timo,Glock,Autodromo Nazionale di Monza,Toyota
+14,15,7,14,12,Jarno,Trulli,Autodromo Nazionale di Monza,Toyota
+15,10,7,20,\N,Timo,Glock,Marina Bay Street Circuit,Toyota
+15,15,7,2,2,Jarno,Trulli,Marina Bay Street Circuit,Toyota
+16,15,7,4,\N,Jarno,Trulli,Fuji Speedway,Toyota
+16,155,7,11,10,Kamui,Kobayashi,Fuji Speedway,Toyota
+17,15,7,6,7,Jarno,Trulli,Shanghai International Circuit,Toyota
+17,155,7,12,6,Kamui,Kobayashi,Shanghai International Circuit,Toyota
+53,15,7,14,16,Jarno,Trulli,Rouen-Les-Essarts,Toyota
+53,23,7,17,14,Ralf,Schumacher,Rouen-Les-Essarts,Toyota
+54,15,7,9,9,Jarno,Trulli,Le Mans,Toyota
+54,23,7,22,8,Ralf,Schumacher,Le Mans,Toyota
+55,15,7,9,\N,Jarno,Trulli,Reims-Gueux,Toyota
+55,23,7,6,3,Ralf,Schumacher,Reims-Gueux,Toyota
+56,15,7,9,\N,Jarno,Trulli,Prince George Circuit,Toyota
+56,23,7,6,9,Ralf,Schumacher,Prince George Circuit,Toyota
+57,15,7,7,9,Jarno,Trulli,Zeltweg,Toyota
+57,23,7,10,\N,Ralf,Schumacher,Zeltweg,Toyota
+58,15,7,7,10,Jarno,Trulli,Aintree,Toyota
+58,23,7,6,\N,Ralf,Schumacher,Aintree,Toyota
+59,15,7,6,17,Jarno,Trulli,Circuito da Boavista,Toyota
+59,23,7,10,8,Ralf,Schumacher,Circuito da Boavista,Toyota
+60,15,7,22,11,Jarno,Trulli,Riverside International Raceway,Toyota
+60,23,7,7,\N,Ralf,Schumacher,Riverside International Raceway,Toyota
+61,15,7,4,6,Jarno,Trulli,AVUS,Toyota
+61,23,7,14,\N,Ralf,Schumacher,AVUS,Toyota
+62,15,7,22,4,Jarno,Trulli,Monsanto Park Circuit,Toyota
+62,23,7,8,\N,Ralf,Schumacher,Monsanto Park Circuit,Toyota
+63,15,7,4,\N,Jarno,Trulli,Sebring International Raceway,Toyota
+63,23,7,5,4,Ralf,Schumacher,Sebring International Raceway,Toyota
+64,15,7,20,7,Jarno,Trulli,Ain Diab,Toyota
+64,23,7,8,9,Ralf,Schumacher,Ain Diab,Toyota
+65,15,7,8,12,Jarno,Trulli,Pescara Circuit,Toyota
+65,23,7,6,6,Ralf,Schumacher,Pescara Circuit,Toyota
+66,15,7,12,9,Jarno,Trulli,Circuit Bremgarten,Toyota
+66,23,7,15,7,Ralf,Schumacher,Circuit Bremgarten,Toyota
+67,15,7,11,7,Jarno,Trulli,Circuit de Pedralbes,Toyota
+67,23,7,13,15,Ralf,Schumacher,Circuit de Pedralbes,Toyota
+68,15,7,17,\N,Jarno,Trulli,Buddh International Circuit,Toyota
+68,23,7,16,\N,Ralf,Schumacher,Buddh International Circuit,Toyota
+69,15,7,4,6,Jarno,Trulli,Circuit of the Americas,Toyota
+69,23,7,3,7,Ralf,Schumacher,Circuit of the Americas,Toyota
+70,15,7,3,\N,Jarno,Trulli,Red Bull Ring,Toyota
+70,23,7,7,\N,Ralf,Schumacher,Red Bull Ring,Toyota
+71,15,7,2,9,Jarno,Trulli,Sochi Autodrom,Toyota
+71,23,7,15,12,Ralf,Schumacher,Sochi Autodrom,Toyota
+73,15,7,3,2,Jarno,Trulli,Baku City Circuit,Toyota
+73,23,7,6,4,Ralf,Schumacher,Baku City Circuit,Toyota
+75,15,7,5,3,Jarno,Trulli,Autódromo Internacional do Algarve,Toyota
+75,23,7,4,4,Ralf,Schumacher,Autódromo Internacional do Algarve,Toyota
+76,15,7,5,10,Jarno,Trulli,Autodromo Internazionale del Mugello,Toyota
+76,23,7,18,6,Ralf,Schumacher,Autodromo Internazionale del Mugello,Toyota
+77,15,7,4,8,Jarno,Trulli,Jeddah Corniche Circuit,Toyota
+77,23,7,8,\N,Ralf,Schumacher,Jeddah Corniche Circuit,Toyota
+78,15,7,9,\N,Jarno,Trulli,Losail International Circuit,Toyota
+78,23,7,10,6,Ralf,Schumacher,Losail International Circuit,Toyota
+79,15,7,1,\N,Jarno,Trulli,Miami International Autodrome,Toyota
+79,41,7,13,\N,Ricardo,Zonta,Miami International Autodrome,Toyota
+80,15,7,2,5,Jarno,Trulli,Las Vegas Strip Street Circuit,Toyota
+80,23,7,11,7,Ralf,Schumacher,Las Vegas Strip Street Circuit,Toyota
+18,11,8,19,\N,Takuma,Sato,Autódromo José Carlos Pace,Super Aguri
+18,19,8,21,\N,Anthony,Davidson,Autódromo José Carlos Pace,Super Aguri
+19,11,8,19,16,Takuma,Sato,Indianapolis Motor Speedway,Super Aguri
+19,19,8,21,15,Anthony,Davidson,Indianapolis Motor Speedway,Super Aguri
+20,11,8,22,17,Takuma,Sato,Nürburgring,Super Aguri
+20,19,8,21,16,Anthony,Davidson,Nürburgring,Super Aguri
+21,11,8,22,13,Takuma,Sato,Autodromo Enzo e Dino Ferrari,Super Aguri
+21,19,8,21,\N,Anthony,Davidson,Autodromo Enzo e Dino Ferrari,Super Aguri
+36,11,8,10,12,Takuma,Sato,Autódromo Internacional Nelson Piquet,Super Aguri
+36,19,8,11,16,Anthony,Davidson,Autódromo Internacional Nelson Piquet,Super Aguri
+37,11,8,14,13,Takuma,Sato,Detroit Street Circuit,Super Aguri
+37,19,8,18,16,Anthony,Davidson,Detroit Street Circuit,Super Aguri
+38,11,8,17,\N,Takuma,Sato,Brands Hatch,Super Aguri
+38,19,8,13,16,Anthony,Davidson,Brands Hatch,Super Aguri
+39,11,8,13,8,Takuma,Sato,Circuit Park Zandvoort,Super Aguri
+39,19,8,15,11,Anthony,Davidson,Circuit Park Zandvoort,Super Aguri
+40,11,8,21,17,Takuma,Sato,Zolder,Super Aguri
+40,19,8,17,18,Anthony,Davidson,Zolder,Super Aguri
+41,11,8,11,6,Takuma,Sato,Dijon-Prenois,Super Aguri
+41,19,8,17,11,Anthony,Davidson,Dijon-Prenois,Super Aguri
+42,11,8,18,\N,Takuma,Sato,Fair Park,Super Aguri
+42,19,8,16,11,Anthony,Davidson,Fair Park,Super Aguri
+43,11,8,22,16,Takuma,Sato,Long Beach,Super Aguri
+43,19,8,19,\N,Anthony,Davidson,Long Beach,Super Aguri
+44,11,8,21,14,Takuma,Sato,Las Vegas Street Circuit,Super Aguri
+44,19,8,19,\N,Anthony,Davidson,Las Vegas Street Circuit,Super Aguri
+45,11,8,16,\N,Takuma,Sato,Jarama,Super Aguri
+45,19,8,15,12,Anthony,Davidson,Jarama,Super Aguri
+46,11,8,19,15,Takuma,Sato,Watkins Glen,Super Aguri
+46,19,8,15,\N,Anthony,Davidson,Watkins Glen,Super Aguri
+47,11,8,17,18,Takuma,Sato,Scandinavian Raceway,Super Aguri
+47,19,8,11,14,Anthony,Davidson,Scandinavian Raceway,Super Aguri
+48,11,8,17,16,Takuma,Sato,Mosport International Raceway,Super Aguri
+48,19,8,14,14,Anthony,Davidson,Mosport International Raceway,Super Aguri
+49,11,8,18,15,Takuma,Sato,Montjuïc,Super Aguri
+49,19,8,20,16,Anthony,Davidson,Montjuïc,Super Aguri
+50,11,8,21,15,Takuma,Sato,Nivelles-Baulers,Super Aguri
+50,19,8,19,\N,Anthony,Davidson,Nivelles-Baulers,Super Aguri
+51,11,8,20,14,Takuma,Sato,Charade Circuit,Super Aguri
+51,19,8,14,\N,Anthony,Davidson,Charade Circuit,Super Aguri
+52,11,8,18,12,Takuma,Sato,Circuit Mont-Tremblant,Super Aguri
+52,19,8,20,14,Anthony,Davidson,Circuit Mont-Tremblant,Super Aguri
+53,11,8,20,18,Takuma,Sato,Rouen-Les-Essarts,Super Aguri
+53,34,8,21,\N,Yuji,Ide,Rouen-Les-Essarts,Super Aguri
+54,11,8,17,14,Takuma,Sato,Le Mans,Super Aguri
+54,34,8,18,\N,Yuji,Ide,Le Mans,Super Aguri
+55,11,8,21,12,Takuma,Sato,Reims-Gueux,Super Aguri
+55,34,8,22,13,Yuji,Ide,Reims-Gueux,Super Aguri
+56,11,8,21,\N,Takuma,Sato,Prince George Circuit,Super Aguri
+56,34,8,22,\N,Yuji,Ide,Prince George Circuit,Super Aguri
+57,11,8,20,\N,Takuma,Sato,Zeltweg,Super Aguri
+57,36,8,21,\N,Franck,Montagny,Zeltweg,Super Aguri
+58,11,8,19,17,Takuma,Sato,Aintree,Super Aguri
+58,36,8,20,\N,Franck,Montagny,Aintree,Super Aguri
+59,11,8,19,\N,Takuma,Sato,Circuito da Boavista,Super Aguri
+59,36,8,20,16,Franck,Montagny,Circuito da Boavista,Super Aguri
+60,11,8,20,17,Takuma,Sato,Riverside International Raceway,Super Aguri
+60,36,8,21,18,Franck,Montagny,Riverside International Raceway,Super Aguri
+61,11,8,20,15,Takuma,Sato,AVUS,Super Aguri
+61,36,8,21,\N,Franck,Montagny,AVUS,Super Aguri
+62,11,8,18,\N,Takuma,Sato,Monsanto Park Circuit,Super Aguri
+62,36,8,19,\N,Franck,Montagny,Monsanto Park Circuit,Super Aguri
+63,11,8,21,\N,Takuma,Sato,Sebring International Raceway,Super Aguri
+63,36,8,20,16,Franck,Montagny,Sebring International Raceway,Super Aguri
+64,11,8,17,\N,Takuma,Sato,Ain Diab,Super Aguri
+64,29,8,22,\N,Sakon,Yamamoto,Ain Diab,Super Aguri
+65,11,8,19,13,Takuma,Sato,Pescara Circuit,Super Aguri
+65,29,8,21,\N,Sakon,Yamamoto,Pescara Circuit,Super Aguri
+66,11,8,21,\N,Takuma,Sato,Circuit Bremgarten,Super Aguri
+66,29,8,20,\N,Sakon,Yamamoto,Circuit Bremgarten,Super Aguri
+67,11,8,21,16,Takuma,Sato,Circuit de Pedralbes,Super Aguri
+67,29,8,22,\N,Sakon,Yamamoto,Circuit de Pedralbes,Super Aguri
+68,11,8,21,\N,Takuma,Sato,Buddh International Circuit,Super Aguri
+68,29,8,19,16,Sakon,Yamamoto,Buddh International Circuit,Super Aguri
+69,11,8,20,15,Takuma,Sato,Circuit of the Americas,Super Aguri
+69,29,8,22,17,Sakon,Yamamoto,Circuit of the Americas,Super Aguri
+70,11,8,19,10,Takuma,Sato,Red Bull Ring,Super Aguri
+70,29,8,20,16,Sakon,Yamamoto,Red Bull Ring,Super Aguri
+18,14,9,8,\N,David,Coulthard,Autódromo José Carlos Pace,Red Bull
+18,17,9,14,\N,Mark,Webber,Autódromo José Carlos Pace,Red Bull
+19,14,9,12,9,David,Coulthard,Indianapolis Motor Speedway,Red Bull
+19,17,9,6,7,Mark,Webber,Indianapolis Motor Speedway,Red Bull
+20,14,9,17,18,David,Coulthard,Nürburgring,Red Bull
+20,17,9,11,7,Mark,Webber,Nürburgring,Red Bull
+21,14,9,17,12,David,Coulthard,Autodromo Enzo e Dino Ferrari,Red Bull
+21,17,9,7,5,Mark,Webber,Autodromo Enzo e Dino Ferrari,Red Bull
+22,14,9,10,9,David,Coulthard,Suzuka Circuit,Red Bull
+22,17,9,6,7,Mark,Webber,Suzuka Circuit,Red Bull
+24,14,9,13,3,David,Coulthard,Yas Marina Circuit,Red Bull
+24,17,9,10,12,Mark,Webber,Yas Marina Circuit,Red Bull
+25,14,9,7,9,David,Coulthard,Autódromo Juan y Oscar Gálvez,Red Bull
+25,17,9,6,6,Mark,Webber,Autódromo Juan y Oscar Gálvez,Red Bull
+26,14,9,11,\N,David,Coulthard,Circuito de Jerez,Red Bull
+26,17,9,2,10,Mark,Webber,Circuito de Jerez,Red Bull
+27,14,9,10,13,David,Coulthard,Autódromo do Estoril,Red Bull
+27,17,9,8,\N,Mark,Webber,Autódromo do Estoril,Red Bull
+28,14,9,13,11,David,Coulthard,Okayama International Circuit,Red Bull
+28,17,9,8,9,Mark,Webber,Okayama International Circuit,Red Bull
+29,14,9,17,17,David,Coulthard,Adelaide Street Circuit,Red Bull
+29,17,9,14,12,Mark,Webber,Adelaide Street Circuit,Red Bull
+30,14,9,14,11,David,Coulthard,Kyalami,Red Bull
+30,17,9,7,8,Mark,Webber,Kyalami,Red Bull
+31,14,9,13,16,David,Coulthard,Donington Park,Red Bull
+31,17,9,3,8,Mark,Webber,Donington Park,Red Bull
+32,14,9,14,7,David,Coulthard,Autódromo Hermanos Rodríguez,Red Bull
+32,17,9,13,\N,Mark,Webber,Autódromo Hermanos Rodríguez,Red Bull
+33,14,9,11,\N,David,Coulthard,Phoenix street circuit,Red Bull
+33,17,9,13,8,Mark,Webber,Phoenix street circuit,Red Bull
+34,14,9,15,10,David,Coulthard,Circuit Paul Ricard,Red Bull
+34,17,9,16,14,Mark,Webber,Circuit Paul Ricard,Red Bull
+35,14,9,14,\N,David,Coulthard,Korean International Circuit,Red Bull
+35,17,9,12,9,Mark,Webber,Korean International Circuit,Red Bull
+36,14,9,18,\N,David,Coulthard,Autódromo Internacional Nelson Piquet,Red Bull
+36,17,9,7,13,Mark,Webber,Autódromo Internacional Nelson Piquet,Red Bull
+37,14,9,13,\N,David,Coulthard,Detroit Street Circuit,Red Bull
+37,17,9,10,10,Mark,Webber,Detroit Street Circuit,Red Bull
+38,14,9,21,\N,David,Coulthard,Brands Hatch,Red Bull
+38,17,9,8,\N,Mark,Webber,Brands Hatch,Red Bull
+39,14,9,9,5,David,Coulthard,Circuit Park Zandvoort,Red Bull
+39,17,9,19,\N,Mark,Webber,Circuit Park Zandvoort,Red Bull
+40,14,9,13,14,David,Coulthard,Zolder,Red Bull
+40,17,9,6,\N,Mark,Webber,Zolder,Red Bull
+41,14,9,14,\N,David,Coulthard,Dijon-Prenois,Red Bull
+41,17,9,6,9,Mark,Webber,Dijon-Prenois,Red Bull
+42,14,9,11,\N,David,Coulthard,Fair Park,Red Bull
+42,17,9,9,7,Mark,Webber,Fair Park,Red Bull
+43,14,9,16,13,David,Coulthard,Long Beach,Red Bull
+43,17,9,14,12,Mark,Webber,Long Beach,Red Bull
+44,14,9,12,11,David,Coulthard,Las Vegas Street Circuit,Red Bull
+44,17,9,11,\N,Mark,Webber,Las Vegas Street Circuit,Red Bull
+45,14,9,20,5,David,Coulthard,Jarama,Red Bull
+45,17,9,6,3,Mark,Webber,Jarama,Red Bull
+46,14,9,10,11,David,Coulthard,Watkins Glen,Red Bull
+46,17,9,9,9,Mark,Webber,Watkins Glen,Red Bull
+47,14,9,13,10,David,Coulthard,Scandinavian Raceway,Red Bull
+47,17,9,12,\N,Mark,Webber,Scandinavian Raceway,Red Bull
+48,14,9,20,\N,David,Coulthard,Mosport International Raceway,Red Bull
+48,17,9,11,9,Mark,Webber,Mosport International Raceway,Red Bull
+49,14,9,11,\N,David,Coulthard,Montjuïc,Red Bull
+49,17,9,7,7,Mark,Webber,Montjuïc,Red Bull
+50,14,9,12,4,David,Coulthard,Nivelles-Baulers,Red Bull
+50,17,9,7,\N,Mark,Webber,Nivelles-Baulers,Red Bull
+51,14,9,5,8,David,Coulthard,Charade Circuit,Red Bull
+51,17,9,7,10,Mark,Webber,Charade Circuit,Red Bull
+52,14,9,9,9,David,Coulthard,Circuit Mont-Tremblant,Red Bull
+52,17,9,5,\N,Mark,Webber,Circuit Mont-Tremblant,Red Bull
+1,17,9,8,12,Mark,Webber,Albert Park Grand Prix Circuit,Red Bull
+1,20,9,3,13,Sebastian,Vettel,Albert Park Grand Prix Circuit,Red Bull
+2,17,9,5,6,Mark,Webber,Sepang International Circuit,Red Bull
+2,20,9,13,15,Sebastian,Vettel,Sepang International Circuit,Red Bull
+3,17,9,3,2,Mark,Webber,Bahrain International Circuit,Red Bull
+3,20,9,1,1,Sebastian,Vettel,Bahrain International Circuit,Red Bull
+4,17,9,18,11,Mark,Webber,Circuit de Barcelona-Catalunya,Red Bull
+4,20,9,3,2,Sebastian,Vettel,Circuit de Barcelona-Catalunya,Red Bull
+5,17,9,5,3,Mark,Webber,Istanbul Park,Red Bull
+5,20,9,2,4,Sebastian,Vettel,Istanbul Park,Red Bull
+6,17,9,8,5,Mark,Webber,Circuit de Monaco,Red Bull
+6,20,9,4,\N,Sebastian,Vettel,Circuit de Monaco,Red Bull
+7,17,9,4,2,Mark,Webber,Circuit Gilles Villeneuve,Red Bull
+7,20,9,1,3,Sebastian,Vettel,Circuit Gilles Villeneuve,Red Bull
+8,17,9,3,2,Mark,Webber,Circuit de Nevers Magny-Cours,Red Bull
+8,20,9,1,1,Sebastian,Vettel,Circuit de Nevers Magny-Cours,Red Bull
+9,17,9,1,1,Mark,Webber,Silverstone Circuit,Red Bull
+9,20,9,4,2,Sebastian,Vettel,Silverstone Circuit,Red Bull
+10,17,9,3,3,Mark,Webber,Hockenheimring,Red Bull
+10,20,9,2,\N,Sebastian,Vettel,Hockenheimring,Red Bull
+11,17,9,9,9,Mark,Webber,Hungaroring,Red Bull
+11,20,9,4,\N,Sebastian,Vettel,Hungaroring,Red Bull
+12,17,9,9,9,Mark,Webber,Valencia Street Circuit,Red Bull
+12,20,9,8,3,Sebastian,Vettel,Valencia Street Circuit,Red Bull
+13,17,9,10,\N,Mark,Webber,Circuit de Spa-Francorchamps,Red Bull
+13,20,9,9,8,Sebastian,Vettel,Circuit de Spa-Francorchamps,Red Bull
+14,17,9,4,\N,Mark,Webber,Autodromo Nazionale di Monza,Red Bull
+14,20,9,2,4,Sebastian,Vettel,Autodromo Nazionale di Monza,Red Bull
+15,17,9,19,17,Mark,Webber,Marina Bay Street Circuit,Red Bull
+15,20,9,1,1,Sebastian,Vettel,Marina Bay Street Circuit,Red Bull
+16,17,9,2,1,Mark,Webber,Fuji Speedway,Red Bull
+16,20,9,15,4,Sebastian,Vettel,Fuji Speedway,Red Bull
+17,17,9,3,2,Mark,Webber,Shanghai International Circuit,Red Bull
+17,20,9,2,1,Sebastian,Vettel,Shanghai International Circuit,Red Bull
+53,14,9,13,10,David,Coulthard,Rouen-Les-Essarts,Red Bull
+53,32,9,8,8,Christian,Klien,Rouen-Les-Essarts,Red Bull
+54,14,9,19,\N,David,Coulthard,Le Mans,Red Bull
+54,32,9,8,\N,Christian,Klien,Le Mans,Red Bull
+55,14,9,11,8,David,Coulthard,Reims-Gueux,Red Bull
+55,32,9,13,\N,Christian,Klien,Reims-Gueux,Red Bull
+56,14,9,14,\N,David,Coulthard,Prince George Circuit,Red Bull
+56,32,9,17,\N,Christian,Klien,Prince George Circuit,Red Bull
+57,14,9,12,\N,David,Coulthard,Zeltweg,Red Bull
+57,32,9,15,\N,Christian,Klien,Zeltweg,Red Bull
+58,14,9,21,14,David,Coulthard,Aintree,Red Bull
+58,32,9,14,13,Christian,Klien,Aintree,Red Bull
+59,14,9,7,3,David,Coulthard,Circuito da Boavista,Red Bull
+59,32,9,11,\N,Christian,Klien,Circuito da Boavista,Red Bull
+60,14,9,11,12,David,Coulthard,Riverside International Raceway,Red Bull
+60,32,9,14,14,Christian,Klien,Riverside International Raceway,Red Bull
+61,14,9,22,8,David,Coulthard,AVUS,Red Bull
+61,32,9,12,11,Christian,Klien,AVUS,Red Bull
+62,14,9,17,7,David,Coulthard,Monsanto Park Circuit,Red Bull
+62,32,9,16,\N,Christian,Klien,Monsanto Park Circuit,Red Bull
+63,14,9,9,9,David,Coulthard,Sebring International Raceway,Red Bull
+63,32,9,12,12,Christian,Klien,Sebring International Raceway,Red Bull
+64,14,9,10,11,David,Coulthard,Ain Diab,Red Bull
+64,32,9,12,8,Christian,Klien,Ain Diab,Red Bull
+65,14,9,12,5,David,Coulthard,Pescara Circuit,Red Bull
+65,32,9,13,\N,Christian,Klien,Pescara Circuit,Red Bull
+66,14,9,16,15,David,Coulthard,Circuit Bremgarten,Red Bull
+66,32,9,10,11,Christian,Klien,Circuit Bremgarten,Red Bull
+67,14,9,14,12,David,Coulthard,Circuit de Pedralbes,Red Bull
+67,32,9,16,11,Christian,Klien,Circuit de Pedralbes,Red Bull
+68,14,9,12,9,David,Coulthard,Buddh International Circuit,Red Bull
+68,38,9,10,12,Robert,Doornbos,Buddh International Circuit,Red Bull
+69,14,9,17,\N,David,Coulthard,Circuit of the Americas,Red Bull
+69,38,9,18,13,Robert,Doornbos,Circuit of the Americas,Red Bull
+70,14,9,18,\N,David,Coulthard,Red Bull Ring,Red Bull
+70,38,9,22,12,Robert,Doornbos,Red Bull Ring,Red Bull
+71,14,9,5,4,David,Coulthard,Sochi Autodrom,Red Bull
+71,32,9,6,7,Christian,Klien,Sochi Autodrom,Red Bull
+73,14,9,14,8,David,Coulthard,Baku City Circuit,Red Bull
+73,32,9,7,\N,Christian,Klien,Baku City Circuit,Red Bull
+75,14,9,9,8,David,Coulthard,Autódromo Internacional do Algarve,Red Bull
+75,24,9,11,\N,Vitantonio,Liuzzi,Autódromo Internacional do Algarve,Red Bull
+76,14,9,7,\N,David,Coulthard,Autodromo Internazionale del Mugello,Red Bull
+76,24,9,12,\N,Vitantonio,Liuzzi,Autodromo Internazionale del Mugello,Red Bull
+77,14,9,12,4,David,Coulthard,Jeddah Corniche Circuit,Red Bull
+77,24,9,14,9,Vitantonio,Liuzzi,Jeddah Corniche Circuit,Red Bull
+78,14,9,12,7,David,Coulthard,Losail International Circuit,Red Bull
+78,32,9,16,8,Christian,Klien,Losail International Circuit,Red Bull
+79,14,9,16,\N,David,Coulthard,Miami International Autodrome,Red Bull
+79,32,9,14,\N,Christian,Klien,Miami International Autodrome,Red Bull
+80,14,9,15,10,David,Coulthard,Las Vegas Strip Street Circuit,Red Bull
+80,32,9,16,\N,Christian,Klien,Las Vegas Strip Street Circuit,Red Bull
+18,16,10,22,\N,Adrian,Sutil,Autódromo José Carlos Pace,Force India
+18,21,10,16,\N,Giancarlo,Fisichella,Autódromo José Carlos Pace,Force India
+19,16,10,20,\N,Adrian,Sutil,Indianapolis Motor Speedway,Force India
+19,21,10,17,12,Giancarlo,Fisichella,Indianapolis Motor Speedway,Force India
+20,16,10,20,19,Adrian,Sutil,Nürburgring,Force India
+20,21,10,18,12,Giancarlo,Fisichella,Nürburgring,Force India
+21,16,10,20,\N,Adrian,Sutil,Autodromo Enzo e Dino Ferrari,Force India
+21,21,10,19,10,Giancarlo,Fisichella,Autodromo Enzo e Dino Ferrari,Force India
+22,16,10,19,16,Adrian,Sutil,Suzuka Circuit,Force India
+22,21,10,20,\N,Giancarlo,Fisichella,Suzuka Circuit,Force India
+24,16,10,16,\N,Adrian,Sutil,Yas Marina Circuit,Force India
+24,21,10,17,\N,Giancarlo,Fisichella,Yas Marina Circuit,Force India
+25,16,10,18,19,Adrian,Sutil,Autódromo Juan y Oscar Gálvez,Force India
+25,21,10,17,18,Giancarlo,Fisichella,Autódromo Juan y Oscar Gálvez,Force India
+26,16,10,18,\N,Adrian,Sutil,Circuito de Jerez,Force India
+26,21,10,19,\N,Giancarlo,Fisichella,Circuito de Jerez,Force India
+27,16,10,19,15,Adrian,Sutil,Autódromo do Estoril,Force India
+27,21,10,20,16,Giancarlo,Fisichella,Autódromo do Estoril,Force India
+28,16,10,20,\N,Adrian,Sutil,Okayama International Circuit,Force India
+28,21,10,18,15,Giancarlo,Fisichella,Okayama International Circuit,Force India
+29,16,10,20,\N,Adrian,Sutil,Adelaide Street Circuit,Force India
+29,21,10,18,14,Giancarlo,Fisichella,Adelaide Street Circuit,Force India
+30,16,10,18,13,Adrian,Sutil,Kyalami,Force India
+30,21,10,20,17,Giancarlo,Fisichella,Kyalami,Force India
+31,16,10,20,19,Adrian,Sutil,Donington Park,Force India
+31,21,10,12,\N,Giancarlo,Fisichella,Donington Park,Force India
+32,16,10,19,\N,Adrian,Sutil,Autódromo Hermanos Rodríguez,Force India
+32,21,10,20,14,Giancarlo,Fisichella,Autódromo Hermanos Rodríguez,Force India
+33,16,10,19,\N,Adrian,Sutil,Phoenix street circuit,Force India
+33,21,10,20,\N,Giancarlo,Fisichella,Phoenix street circuit,Force India
+34,16,10,19,\N,Adrian,Sutil,Circuit Paul Ricard,Force India
+34,21,10,20,17,Giancarlo,Fisichella,Circuit Paul Ricard,Force India
+35,16,10,20,16,Adrian,Sutil,Korean International Circuit,Force India
+35,21,10,19,18,Giancarlo,Fisichella,Korean International Circuit,Force India
+1,16,10,16,9,Adrian,Sutil,Albert Park Grand Prix Circuit,Force India
+1,21,10,15,11,Giancarlo,Fisichella,Albert Park Grand Prix Circuit,Force India
+2,16,10,19,17,Adrian,Sutil,Sepang International Circuit,Force India
+2,21,10,18,18,Giancarlo,Fisichella,Sepang International Circuit,Force India
+3,16,10,18,17,Adrian,Sutil,Bahrain International Circuit,Force India
+3,21,10,20,14,Giancarlo,Fisichella,Bahrain International Circuit,Force India
+4,16,10,19,16,Adrian,Sutil,Circuit de Barcelona-Catalunya,Force India
+4,21,10,17,15,Giancarlo,Fisichella,Circuit de Barcelona-Catalunya,Force India
+5,16,10,19,\N,Adrian,Sutil,Istanbul Park,Force India
+5,21,10,20,14,Giancarlo,Fisichella,Istanbul Park,Force India
+6,16,10,15,14,Adrian,Sutil,Circuit de Monaco,Force India
+6,21,10,13,9,Giancarlo,Fisichella,Circuit de Monaco,Force India
+7,16,10,15,17,Adrian,Sutil,Circuit Gilles Villeneuve,Force India
+7,21,10,19,\N,Giancarlo,Fisichella,Circuit Gilles Villeneuve,Force India
+8,16,10,20,17,Adrian,Sutil,Circuit de Nevers Magny-Cours,Force India
+8,21,10,16,10,Giancarlo,Fisichella,Circuit de Nevers Magny-Cours,Force India
+9,16,10,7,15,Adrian,Sutil,Silverstone Circuit,Force India
+9,21,10,18,11,Giancarlo,Fisichella,Silverstone Circuit,Force India
+10,16,10,17,\N,Adrian,Sutil,Hockenheimring,Force India
+10,21,10,16,14,Giancarlo,Fisichella,Hockenheimring,Force India
+11,16,10,12,10,Adrian,Sutil,Hungaroring,Force India
+11,21,10,16,12,Giancarlo,Fisichella,Hungaroring,Force India
+12,16,10,11,11,Adrian,Sutil,Valencia Street Circuit,Force India
+12,21,10,1,2,Giancarlo,Fisichella,Valencia Street Circuit,Force India
+13,16,10,2,4,Adrian,Sutil,Circuit de Spa-Francorchamps,Force India
+13,24,10,7,\N,Vitantonio,Liuzzi,Circuit de Spa-Francorchamps,Force India
+14,16,10,15,\N,Adrian,Sutil,Autodromo Nazionale di Monza,Force India
+14,24,10,19,14,Vitantonio,Liuzzi,Autodromo Nazionale di Monza,Force India
+15,16,10,8,13,Adrian,Sutil,Marina Bay Street Circuit,Force India
+15,24,10,18,14,Vitantonio,Liuzzi,Marina Bay Street Circuit,Force India
+16,16,10,3,\N,Adrian,Sutil,Fuji Speedway,Force India
+16,24,10,20,12,Vitantonio,Liuzzi,Fuji Speedway,Force India
+17,16,10,17,17,Adrian,Sutil,Shanghai International Circuit,Force India
+17,24,10,16,15,Vitantonio,Liuzzi,Shanghai International Circuit,Force India
+18,18,11,12,\N,Jenson,Button,Autódromo José Carlos Pace,Honda
+18,22,11,10,\N,Rubens,Barrichello,Autódromo José Carlos Pace,Honda
+19,18,11,11,10,Jenson,Button,Indianapolis Motor Speedway,Honda
+19,22,11,14,13,Rubens,Barrichello,Indianapolis Motor Speedway,Honda
+20,18,11,9,\N,Jenson,Button,Nürburgring,Honda
+20,22,11,12,11,Rubens,Barrichello,Nürburgring,Honda
+21,18,11,13,6,Jenson,Button,Autodromo Enzo e Dino Ferrari,Honda
+21,22,11,11,\N,Rubens,Barrichello,Autodromo Enzo e Dino Ferrari,Honda
+22,18,11,13,11,Jenson,Button,Suzuka Circuit,Honda
+22,22,11,12,14,Rubens,Barrichello,Suzuka Circuit,Honda
+24,18,11,20,11,Jenson,Button,Yas Marina Circuit,Honda
+24,22,11,9,7,Rubens,Barrichello,Yas Marina Circuit,Honda
+25,18,11,16,\N,Jenson,Button,Autódromo Juan y Oscar Gálvez,Honda
+25,22,11,20,14,Rubens,Barrichello,Autódromo Juan y Oscar Gálvez,Honda
+26,18,11,17,\N,Jenson,Button,Circuito de Jerez,Honda
+26,22,11,16,3,Rubens,Barrichello,Circuito de Jerez,Honda
+27,18,11,14,17,Jenson,Button,Autódromo do Estoril,Honda
+27,22,11,18,\N,Rubens,Barrichello,Autódromo do Estoril,Honda
+28,18,11,12,12,Jenson,Button,Okayama International Circuit,Honda
+28,22,11,17,16,Rubens,Barrichello,Okayama International Circuit,Honda
+29,18,11,16,13,Jenson,Button,Adelaide Street Circuit,Honda
+29,22,11,19,16,Rubens,Barrichello,Adelaide Street Circuit,Honda
+30,18,11,17,15,Jenson,Button,Kyalami,Honda
+30,22,11,16,\N,Rubens,Barrichello,Kyalami,Honda
+31,18,11,19,15,Jenson,Button,Donington Park,Honda
+31,22,11,16,17,Rubens,Barrichello,Donington Park,Honda
+32,18,11,12,9,Jenson,Button,Autódromo Hermanos Rodríguez,Honda
+32,22,11,18,\N,Rubens,Barrichello,Autódromo Hermanos Rodríguez,Honda
+33,18,11,18,14,Jenson,Button,Phoenix street circuit,Honda
+33,22,11,17,13,Rubens,Barrichello,Phoenix street circuit,Honda
+34,18,11,18,16,Jenson,Button,Circuit Paul Ricard,Honda
+34,22,11,13,11,Rubens,Barrichello,Circuit Paul Ricard,Honda
+35,18,11,17,13,Jenson,Button,Korean International Circuit,Honda
+35,22,11,15,15,Rubens,Barrichello,Korean International Circuit,Honda
+36,18,11,14,15,Jenson,Button,Autódromo Internacional Nelson Piquet,Honda
+36,22,11,16,11,Rubens,Barrichello,Autódromo Internacional Nelson Piquet,Honda
+37,18,11,15,12,Jenson,Button,Detroit Street Circuit,Honda
+37,22,11,22,11,Rubens,Barrichello,Detroit Street Circuit,Honda
+38,18,11,16,\N,Jenson,Button,Brands Hatch,Honda
+38,22,11,15,13,Rubens,Barrichello,Brands Hatch,Honda
+39,18,11,14,12,Jenson,Button,Circuit Park Zandvoort,Honda
+39,22,11,12,10,Rubens,Barrichello,Circuit Park Zandvoort,Honda
+40,18,11,10,11,Jenson,Button,Zolder,Honda
+40,22,11,9,10,Rubens,Barrichello,Zolder,Honda
+41,18,11,15,\N,Jenson,Button,Dijon-Prenois,Honda
+41,22,11,13,12,Rubens,Barrichello,Dijon-Prenois,Honda
+42,18,11,13,12,Jenson,Button,Fair Park,Honda
+42,22,11,15,\N,Rubens,Barrichello,Fair Park,Honda
+43,18,11,12,8,Jenson,Button,Long Beach,Honda
+43,22,11,13,11,Rubens,Barrichello,Long Beach,Honda
+44,18,11,18,10,Jenson,Button,Las Vegas Street Circuit,Honda
+44,22,11,14,9,Rubens,Barrichello,Las Vegas Street Circuit,Honda
+45,18,11,17,\N,Jenson,Button,Jarama,Honda
+45,22,11,14,11,Rubens,Barrichello,Jarama,Honda
+46,18,11,17,\N,Jenson,Button,Watkins Glen,Honda
+46,22,11,18,18,Rubens,Barrichello,Watkins Glen,Honda
+47,18,11,21,13,Jenson,Button,Scandinavian Raceway,Honda
+47,22,11,22,17,Rubens,Barrichello,Scandinavian Raceway,Honda
+48,18,11,10,8,Jenson,Button,Mosport International Raceway,Honda
+48,22,11,12,10,Rubens,Barrichello,Mosport International Raceway,Honda
+49,18,11,12,\N,Jenson,Button,Montjuïc,Honda
+49,22,11,17,13,Rubens,Barrichello,Montjuïc,Honda
+50,18,11,6,11,Jenson,Button,Nivelles-Baulers,Honda
+50,22,11,17,10,Rubens,Barrichello,Nivelles-Baulers,Honda
+51,18,11,10,5,Jenson,Button,Charade Circuit,Honda
+51,22,11,16,15,Rubens,Barrichello,Charade Circuit,Honda
+52,18,11,16,\N,Jenson,Button,Circuit Mont-Tremblant,Honda
+52,22,11,11,\N,Rubens,Barrichello,Circuit Mont-Tremblant,Honda
+53,18,11,3,4,Jenson,Button,Rouen-Les-Essarts,Honda
+53,22,11,6,15,Rubens,Barrichello,Rouen-Les-Essarts,Honda
+54,18,11,2,3,Jenson,Button,Le Mans,Honda
+54,22,11,20,10,Rubens,Barrichello,Le Mans,Honda
+55,18,11,1,10,Jenson,Button,Reims-Gueux,Honda
+55,22,11,16,7,Rubens,Barrichello,Reims-Gueux,Honda
+56,18,11,2,7,Jenson,Button,Prince George Circuit,Honda
+56,22,11,3,10,Rubens,Barrichello,Prince George Circuit,Honda
+57,18,11,6,\N,Jenson,Button,Zeltweg,Honda
+57,22,11,4,5,Rubens,Barrichello,Zeltweg,Honda
+58,18,11,8,6,Jenson,Button,Aintree,Honda
+58,22,11,5,7,Rubens,Barrichello,Aintree,Honda
+59,18,11,13,11,Jenson,Button,Circuito da Boavista,Honda
+59,22,11,5,4,Rubens,Barrichello,Circuito da Boavista,Honda
+60,18,11,19,\N,Jenson,Button,Riverside International Raceway,Honda
+60,22,11,6,10,Rubens,Barrichello,Riverside International Raceway,Honda
+61,18,11,8,9,Jenson,Button,AVUS,Honda
+61,22,11,9,\N,Rubens,Barrichello,AVUS,Honda
+62,18,11,7,\N,Jenson,Button,Monsanto Park Circuit,Honda
+62,22,11,4,6,Rubens,Barrichello,Monsanto Park Circuit,Honda
+63,18,11,17,\N,Jenson,Button,Sebring International Raceway,Honda
+63,22,11,13,\N,Rubens,Barrichello,Sebring International Raceway,Honda
+64,18,11,4,4,Jenson,Button,Ain Diab,Honda
+64,22,11,6,\N,Rubens,Barrichello,Ain Diab,Honda
+65,18,11,14,1,Jenson,Button,Pescara Circuit,Honda
+65,22,11,3,4,Rubens,Barrichello,Pescara Circuit,Honda
+66,18,11,6,4,Jenson,Button,Circuit Bremgarten,Honda
+66,22,11,13,8,Rubens,Barrichello,Circuit Bremgarten,Honda
+67,18,11,5,5,Jenson,Button,Circuit de Pedralbes,Honda
+67,22,11,8,6,Rubens,Barrichello,Circuit de Pedralbes,Honda
+68,18,11,4,4,Jenson,Button,Buddh International Circuit,Honda
+68,22,11,3,6,Rubens,Barrichello,Buddh International Circuit,Honda
+69,18,11,7,4,Jenson,Button,Circuit of the Americas,Honda
+69,22,11,8,12,Rubens,Barrichello,Circuit of the Americas,Honda
+70,18,11,14,3,Jenson,Button,Red Bull Ring,Honda
+70,22,11,5,7,Rubens,Barrichello,Red Bull Ring,Honda
+36,16,12,20,17,Adrian,Sutil,Autódromo Internacional Nelson Piquet,Spyker
+36,27,12,21,\N,Christijan,Albers,Autódromo Internacional Nelson Piquet,Spyker
+37,16,12,21,\N,Adrian,Sutil,Detroit Street Circuit,Spyker
+37,27,12,20,\N,Christijan,Albers,Detroit Street Circuit,Spyker
+38,16,12,20,15,Adrian,Sutil,Brands Hatch,Spyker
+38,27,12,22,14,Christijan,Albers,Brands Hatch,Spyker
+39,16,12,20,13,Adrian,Sutil,Circuit Park Zandvoort,Spyker
+39,27,12,21,14,Christijan,Albers,Circuit Park Zandvoort,Spyker
+40,16,12,19,\N,Adrian,Sutil,Zolder,Spyker
+40,27,12,22,19,Christijan,Albers,Zolder,Spyker
+41,16,12,20,\N,Adrian,Sutil,Dijon-Prenois,Spyker
+41,27,12,21,\N,Christijan,Albers,Dijon-Prenois,Spyker
+42,16,12,21,14,Adrian,Sutil,Fair Park,Spyker
+42,27,12,22,15,Christijan,Albers,Fair Park,Spyker
+43,16,12,21,17,Adrian,Sutil,Long Beach,Spyker
+43,27,12,20,\N,Christijan,Albers,Long Beach,Spyker
+44,16,12,20,\N,Adrian,Sutil,Las Vegas Street Circuit,Spyker
+44,27,12,22,15,Christijan,Albers,Las Vegas Street Circuit,Spyker
+45,16,12,21,\N,Adrian,Sutil,Jarama,Spyker
+45,28,12,22,\N,Markus,Winkelhock,Jarama,Spyker
+46,16,12,21,17,Adrian,Sutil,Watkins Glen,Spyker
+46,29,12,22,\N,Sakon,Yamamoto,Watkins Glen,Spyker
+47,16,12,19,21,Adrian,Sutil,Scandinavian Raceway,Spyker
+47,29,12,20,20,Sakon,Yamamoto,Scandinavian Raceway,Spyker
+48,16,12,21,19,Adrian,Sutil,Mosport International Raceway,Spyker
+48,29,12,22,20,Sakon,Yamamoto,Mosport International Raceway,Spyker
+49,16,12,19,14,Adrian,Sutil,Montjuïc,Spyker
+49,29,12,21,17,Sakon,Yamamoto,Montjuïc,Spyker
+50,16,12,20,8,Adrian,Sutil,Nivelles-Baulers,Spyker
+50,29,12,22,12,Sakon,Yamamoto,Nivelles-Baulers,Spyker
+51,16,12,21,\N,Adrian,Sutil,Charade Circuit,Spyker
+51,29,12,22,17,Sakon,Yamamoto,Charade Circuit,Spyker
+52,16,12,21,\N,Adrian,Sutil,Circuit Mont-Tremblant,Spyker
+52,29,12,22,\N,Sakon,Yamamoto,Circuit Mont-Tremblant,Spyker
+1,18,23,1,1,Jenson,Button,Albert Park Grand Prix Circuit,Brawn
+1,22,23,2,2,Rubens,Barrichello,Albert Park Grand Prix Circuit,Brawn
+2,18,23,1,1,Jenson,Button,Sepang International Circuit,Brawn
+2,22,23,8,5,Rubens,Barrichello,Sepang International Circuit,Brawn
+3,18,23,5,3,Jenson,Button,Bahrain International Circuit,Brawn
+3,22,23,4,4,Rubens,Barrichello,Bahrain International Circuit,Brawn
+4,18,23,4,1,Jenson,Button,Circuit de Barcelona-Catalunya,Brawn
+4,22,23,6,5,Rubens,Barrichello,Circuit de Barcelona-Catalunya,Brawn
+5,18,23,1,1,Jenson,Button,Istanbul Park,Brawn
+5,22,23,3,2,Rubens,Barrichello,Istanbul Park,Brawn
+6,18,23,1,1,Jenson,Button,Circuit de Monaco,Brawn
+6,22,23,3,2,Rubens,Barrichello,Circuit de Monaco,Brawn
+7,18,23,2,1,Jenson,Button,Circuit Gilles Villeneuve,Brawn
+7,22,23,3,\N,Rubens,Barrichello,Circuit Gilles Villeneuve,Brawn
+8,18,23,6,6,Jenson,Button,Circuit de Nevers Magny-Cours,Brawn
+8,22,23,2,3,Rubens,Barrichello,Circuit de Nevers Magny-Cours,Brawn
+9,18,23,3,5,Jenson,Button,Silverstone Circuit,Brawn
+9,22,23,2,6,Rubens,Barrichello,Silverstone Circuit,Brawn
+10,18,23,8,7,Jenson,Button,Hockenheimring,Brawn
+10,22,23,12,10,Rubens,Barrichello,Hockenheimring,Brawn
+11,18,23,5,7,Jenson,Button,Hungaroring,Brawn
+11,22,23,3,1,Rubens,Barrichello,Hungaroring,Brawn
+12,18,23,14,\N,Jenson,Button,Valencia Street Circuit,Brawn
+12,22,23,4,7,Rubens,Barrichello,Valencia Street Circuit,Brawn
+13,18,23,6,2,Jenson,Button,Circuit de Spa-Francorchamps,Brawn
+13,22,23,5,1,Rubens,Barrichello,Circuit de Spa-Francorchamps,Brawn
+14,18,23,11,5,Jenson,Button,Autodromo Nazionale di Monza,Brawn
+14,22,23,9,6,Rubens,Barrichello,Autodromo Nazionale di Monza,Brawn
+15,18,23,10,8,Jenson,Button,Marina Bay Street Circuit,Brawn
+15,22,23,6,7,Rubens,Barrichello,Marina Bay Street Circuit,Brawn
+16,18,23,14,5,Jenson,Button,Fuji Speedway,Brawn
+16,22,23,1,8,Rubens,Barrichello,Fuji Speedway,Brawn
+17,18,23,5,3,Jenson,Button,Shanghai International Circuit,Brawn
+17,22,23,4,4,Rubens,Barrichello,Shanghai International Circuit,Brawn
+53,27,13,18,\N,Christijan,Albers,Rouen-Les-Essarts,MF1
+53,33,13,19,17,Tiago,Monteiro,Rouen-Les-Essarts,MF1
+54,27,13,15,12,Christijan,Albers,Le Mans,MF1
+54,33,13,16,13,Tiago,Monteiro,Le Mans,MF1
+55,27,13,17,11,Christijan,Albers,Reims-Gueux,MF1
+55,33,13,20,\N,Tiago,Monteiro,Reims-Gueux,MF1
+56,27,13,20,\N,Christijan,Albers,Prince George Circuit,MF1
+56,33,13,19,16,Tiago,Monteiro,Prince George Circuit,MF1
+57,27,13,16,13,Christijan,Albers,Zeltweg,MF1
+57,33,13,18,12,Tiago,Monteiro,Zeltweg,MF1
+58,27,13,18,\N,Christijan,Albers,Aintree,MF1
+58,33,13,17,16,Tiago,Monteiro,Aintree,MF1
+59,27,13,16,12,Christijan,Albers,Circuito da Boavista,MF1
+59,33,13,17,15,Tiago,Monteiro,Circuito da Boavista,MF1
+60,27,13,18,15,Christijan,Albers,Riverside International Raceway,MF1
+60,33,13,16,16,Tiago,Monteiro,Riverside International Raceway,MF1
+61,27,13,19,\N,Christijan,Albers,AVUS,MF1
+61,33,13,18,14,Tiago,Monteiro,AVUS,MF1
+62,27,13,14,\N,Christijan,Albers,Monsanto Park Circuit,MF1
+62,33,13,15,\N,Tiago,Monteiro,Monsanto Park Circuit,MF1
+63,27,13,15,15,Christijan,Albers,Sebring International Raceway,MF1
+63,33,13,19,\N,Tiago,Monteiro,Sebring International Raceway,MF1
+64,27,13,21,\N,Christijan,Albers,Ain Diab,MF1
+64,33,13,18,\N,Tiago,Monteiro,Ain Diab,MF1
+65,27,13,22,10,Christijan,Albers,Pescara Circuit,MF1
+65,33,13,16,9,Tiago,Monteiro,Pescara Circuit,MF1
+66,27,13,22,\N,Christijan,Albers,Circuit Bremgarten,MF1
+66,33,13,19,\N,Tiago,Monteiro,Circuit Bremgarten,MF1
+67,27,14,18,17,Christijan,Albers,Circuit de Pedralbes,Spyker MF1
+67,33,14,20,\N,Tiago,Monteiro,Circuit de Pedralbes,Spyker MF1
+68,27,14,22,15,Christijan,Albers,Buddh International Circuit,Spyker MF1
+68,33,14,18,\N,Tiago,Monteiro,Buddh International Circuit,Spyker MF1
+69,27,14,16,\N,Christijan,Albers,Circuit of the Americas,Spyker MF1
+69,33,14,21,16,Tiago,Monteiro,Circuit of the Americas,Spyker MF1
+70,27,14,17,14,Christijan,Albers,Red Bull Ring,Spyker MF1
+70,33,14,21,15,Tiago,Monteiro,Red Bull Ring,Spyker MF1
+71,11,16,20,\N,Takuma,Sato,Sochi Autodrom,BAR
+71,18,16,8,\N,Jenson,Button,Sochi Autodrom,BAR
+73,11,16,13,\N,Takuma,Sato,Baku City Circuit,BAR
+73,18,16,11,\N,Jenson,Button,Baku City Circuit,BAR
+77,11,16,16,12,Takuma,Sato,Jeddah Corniche Circuit,BAR
+77,18,16,13,10,Jenson,Button,Jeddah Corniche Circuit,BAR
+78,11,16,6,\N,Takuma,Sato,Losail International Circuit,BAR
+78,18,16,1,\N,Jenson,Button,Losail International Circuit,BAR
+79,11,16,8,\N,Takuma,Sato,Miami International Autodrome,BAR
+79,18,16,3,\N,Jenson,Button,Miami International Autodrome,BAR
+80,11,16,4,11,Takuma,Sato,Las Vegas Strip Street Circuit,BAR
+80,18,16,7,4,Jenson,Button,Las Vegas Strip Street Circuit,BAR
+71,13,15,18,10,Felipe,Massa,Sochi Autodrom,Sauber
+71,35,15,4,13,Jacques,Villeneuve,Sochi Autodrom,Sauber
+73,13,15,12,7,Felipe,Massa,Baku City Circuit,Sauber
+73,35,15,15,11,Jacques,Villeneuve,Baku City Circuit,Sauber
+75,13,15,10,11,Felipe,Massa,Autódromo Internacional do Algarve,Sauber
+75,35,15,12,\N,Jacques,Villeneuve,Autódromo Internacional do Algarve,Sauber
+76,13,15,11,9,Felipe,Massa,Autodromo Internazionale del Mugello,Sauber
+76,35,15,9,11,Jacques,Villeneuve,Autodromo Internazionale del Mugello,Sauber
+77,13,15,11,14,Felipe,Massa,Jeddah Corniche Circuit,Sauber
+77,35,15,15,13,Jacques,Villeneuve,Jeddah Corniche Circuit,Sauber
+78,13,15,11,4,Felipe,Massa,Losail International Circuit,Sauber
+78,35,15,8,9,Jacques,Villeneuve,Losail International Circuit,Sauber
+79,13,15,10,\N,Felipe,Massa,Miami International Autodrome,Sauber
+79,35,15,12,\N,Jacques,Villeneuve,Miami International Autodrome,Sauber
+80,13,15,9,\N,Felipe,Massa,Las Vegas Strip Street Circuit,Sauber
+80,35,15,10,8,Jacques,Villeneuve,Las Vegas Strip Street Circuit,Sauber
+71,27,18,17,\N,Christijan,Albers,Sochi Autodrom,Minardi
+71,40,18,16,17,Patrick,Friesacher,Sochi Autodrom,Minardi
+73,27,18,18,13,Christijan,Albers,Baku City Circuit,Minardi
+73,40,18,19,12,Patrick,Friesacher,Baku City Circuit,Minardi
+75,27,18,14,\N,Christijan,Albers,Autódromo Internacional do Algarve,Minardi
+75,40,18,15,\N,Patrick,Friesacher,Autódromo Internacional do Algarve,Minardi
+76,27,18,14,14,Christijan,Albers,Autodromo Internazionale del Mugello,Minardi
+76,40,18,13,\N,Patrick,Friesacher,Autodromo Internazionale del Mugello,Minardi
+77,27,18,20,17,Christijan,Albers,Jeddah Corniche Circuit,Minardi
+77,40,18,18,18,Patrick,Friesacher,Jeddah Corniche Circuit,Minardi
+78,27,18,15,11,Christijan,Albers,Losail International Circuit,Minardi
+78,40,18,19,\N,Patrick,Friesacher,Losail International Circuit,Minardi
+79,27,18,18,5,Christijan,Albers,Miami International Autodrome,Minardi
+79,40,18,20,6,Patrick,Friesacher,Miami International Autodrome,Minardi
+80,27,18,20,\N,Christijan,Albers,Las Vegas Strip Street Circuit,Minardi
+80,40,18,18,\N,Patrick,Friesacher,Las Vegas Strip Street Circuit,Minardi
+71,33,17,14,16,Tiago,Monteiro,Sochi Autodrom,Jordan
+71,39,17,12,15,Narain,Karthikeyan,Sochi Autodrom,Jordan
+73,33,17,16,10,Tiago,Monteiro,Baku City Circuit,Jordan
+73,39,17,17,\N,Narain,Karthikeyan,Baku City Circuit,Jordan
+75,33,17,18,12,Tiago,Monteiro,Autódromo Internacional do Algarve,Jordan
+75,39,17,13,13,Narain,Karthikeyan,Autódromo Internacional do Algarve,Jordan
+76,33,17,15,13,Tiago,Monteiro,Autodromo Internazionale del Mugello,Jordan
+76,39,17,17,\N,Narain,Karthikeyan,Autodromo Internazionale del Mugello,Jordan
+77,33,17,17,15,Tiago,Monteiro,Jeddah Corniche Circuit,Jordan
+77,39,17,19,16,Narain,Karthikeyan,Jeddah Corniche Circuit,Jordan
+78,33,17,18,10,Tiago,Monteiro,Losail International Circuit,Jordan
+78,39,17,17,\N,Narain,Karthikeyan,Losail International Circuit,Jordan
+79,33,17,17,3,Tiago,Monteiro,Miami International Autodrome,Jordan
+79,39,17,19,4,Narain,Karthikeyan,Miami International Autodrome,Jordan
+80,33,17,19,13,Tiago,Monteiro,Las Vegas Strip Street Circuit,Jordan
+80,39,17,17,15,Narain,Karthikeyan,Las Vegas Strip Street Circuit,Jordan

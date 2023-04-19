@@ -37,8 +37,7 @@ results_driver_circuit = pd.merge(results_driver, circuits)
 
 load_data = pd.merge(results_driver_circuit, constructor)
 
-load_data.head()
-
+load_data.to_csv("merge_data.csv", index=False)
 
 
 
